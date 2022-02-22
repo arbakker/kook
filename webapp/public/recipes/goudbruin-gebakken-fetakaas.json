@@ -1,0 +1,46 @@
+{
+    "title": "Goudbruin gebakken fetakaas",
+    "subtitle": "met Griekse groentenragout",
+    "description": "Gebakken feta is een klassiek Grieks gerecht en wordt daar \"saganaki\" genoemd, wat \"kleine pan\" betekent. Traditioneel wordt de kaas gebakken en geserveerd n een pannetje met twee handvatten. Vandaag maak je er een heerlijke groenteragout bij van courgette, tomaten en cannellinibonen. En zo tover je de zomer op tafel! s",
+    "ingredients": [
+        "2 courgettes",
+        "1 rode ui",
+        "1 teen knoflook",
+        "10g verse peterselie",
+        "1 tomaat",
+        "1 blik tomatenblokjes",
+        "1 blik cannellinibonen",
+        "1 zakje griekse kruidenmix",
+        "150g feta",
+        "1 citroen",
+        "bloem",
+        "peper en zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten snijden",
+            "description": "Snijd de courgettes in stukken. Pel en halveer de ui en snijd in blokjes. Pel en hak de knoflook fijn. Hak de peterselie incl. steeltjes grof."
+        },
+        {
+            "title": "2. Groenten bakken",
+            "description": "Verhit een middelgrote kookpan op hoog vuur met 1el olijfolie. Bak de ui ca. 2min. Voeg de courgette en de knoflook toe en bak ca. 1min mee."
+        },
+        {
+            "title": "3. Ragout maken",
+            "description": "Snijd de tomaten grof en voeg toe aan de groenten in de pan. Blus af met de tomatenblokjes en 100ml water. Giet de cannellinibonen af en voeg met de helft van de peterselie toe aan de pan. Breng de ragout op smaak met de helft van de Griekse kruidenmix en zout en peper. Laat op middelhoog vuur 8-10min zachtjes koken.     z 3  „ilk"
+        },
+        {
+            "title": "4. Feta kruiden",
+            "description": "Meng 3-4el bloem met de rest van de Griekse kruidenmix op een groot bord. Snijd de feta diagonaal door en wentel door het bloemmengsel, tot het rondom gelijkmatig bedekt is."
+        },
+        {
+            "title": "5. Feta bakken",
+            "description": "Verhit een middelgrote koekenpan op hoog vuur met 3-4el olijfolie. Bak de feta 1-2min aan elke kant, tot het krokant en goudbruin is."
+        },
+        {
+            "title": "6. Citroen snijden",
+            "description": "Snijd de citroen in partjes. Serveer de feta met de groentenragout en bestrooi met de rest van de peterselie. Serveer de citroenpartjes erbij en knijp naar wens uit over de feta en de groentenragout."
+        }
+    ]
+}

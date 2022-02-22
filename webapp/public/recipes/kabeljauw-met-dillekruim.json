@@ -1,0 +1,42 @@
+{
+    "title": "Kabeljauw met dillekruim",
+    "subtitle": "op rode bietenrisotto",
+    "description": "Maak je klaar voor een mooi samenspel van smaken, structuren en kleuren! De kabeljauw bak je eerst goudbruin in de pan en gaar je verder in de oven. Deze serveer je op een smeuge risotto met rode bieten en dit alles garneer je met knapperig gebakken dillekruim. Een feestje op je bord!",
+    "ingredients": [
+        "2 rode bieten",
+        "1 kabeljauwfilet",
+        "1 teen knoflook",
+        "1 ui",
+        "1 groentebouillonblokje",
+        "20g verse dille",
+        "50g panko",
+        "20g italiaanse harde kaas",
+        "10g boter",
+        "200g risotto rijst",
+        "plantaardige olie",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten voorbereiden",
+            "description": "Oven op 160C hetelucht/180C voorverwarmen. Ui en knoflook pellen en fijnhakken. Rode bieten schillen en in ca. 0,5cm grote blokjes snijden. In waterkoker of middelgrote kookpan 1liter water aan de kook brengen. Bouillonblokje in het gekookte water laten oplossen."
+        },
+        {
+            "title": "3. Beuillon toevoegen,",
+            "description": "Bouillon aan de risottopan toevoegen totdat alles net onderstaat. Blijven roeren totdat bijna alle bouillon is opgenomen en dan weer een scheut bouillon toevoegen. Dit blijven herhalen totdat rijst beetgaar is. Dit duurt zo'n 20min. Mogelijk hoef je niet alle bouillon te gebruiken. Risotto met zout en peper op smaak brengen."
+        },
+        {
+            "title": "4. Kabeljauw bakken",
+            "description": "Ondertussen 1-2el olie in een middelgrote koekenpan op middelhoog vuur verhitten. Kabeljauw droogdeppen en met een flinke snuf zout bestrooien (zie kooktip, links). Vis in koekenpan aan beide kanten in ca. 2min goudbruin bakken. Vis in ovenschaal leggen, in oven schuiven en in ca. 10min gaar bakken.        In een middelgrote kookpan 1-2el olie op middelhoog vuur verhitten, dan ui en knoflook toevoegen en in ca. 1-2min glazig bakken. Dan rijst ca. 1min meebakken. Rode bieten toevoegen en alles 2min al roerend bakken."
+        },
+        {
+            "title": "5. Kruim bakken",
+            "description": "Ondertussen dille zonder hardere steeltjes fijnhakken en met panko mengen. Vispan schoonvegen en opnieuw op middelhoog vuur met 1-2el olie verhitten. Dille-mengsel toevoegen en in ca. 1min goudbruin en knapperig bakken. Met zout en peper op smaak brengen.     &"
+        },
+        {
+            "title": "6. Risotto afmaken",
+            "description": "Kaas fijnraspen en samen met boter door de risotto roeren. Risotto over borden verdelen, vis erover leggen en met dillekruim garneren."
+        }
+    ]
+}
