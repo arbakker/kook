@@ -7,13 +7,17 @@ import itertools
 import glob
 from slugify import slugify
 
+def get_project_kook():
+    return Path(__file__).parent
+
 def get_project_root():
     return Path(__file__).parent.parent
 
 def ocr_image_front(image):
     basename = Path(image).stem
     proj_root = get_project_root()
-    uzn_path = f"{SCAN_DIR}/{basename}.uzn"
+    image_dir = os.path.dirname(image)
+    uzn_path = f"{image_dir}/{basename}.uzn"
     shutil.copy(f"{proj_root}/kook/uzn-template", uzn_path)
     result = subprocess.run([
         'tesseract',
@@ -170,21 +174,17 @@ def process_recipe_image(images):
     recipe["steps"] = steps
     return recipe
 
-def process_scans():
+def process_scans(files_to_process):
     recipes = []
-    scans = glob.glob(f"{SCAN_DIR}/*.jpg")
-    scans.sort()
-    for i in range(0,len(scans)-1,2):
-        front_scan = scans[i]
-        back_scan = scans[i+1]
+    for i in range(0,len(files_to_process)-1,2):
+        front_scan = files_to_process[i]
+        back_scan = files_to_process[i+1]
         print(f"front_scan: {front_scan}")
         print(f"back_scan: {back_scan}")
-
         recipe = process_recipe_image((front_scan, back_scan))
         recipes.append(recipe)
     recipes.sort(key=lambda x:x["title"])
     return recipes
-
 
 root_dir = get_project_root()
 SCAN_DIR=f"{root_dir}/data/input/scans"

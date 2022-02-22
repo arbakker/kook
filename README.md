@@ -5,8 +5,10 @@
 Repository containing code to extract recipes from printed recipe cards. Repository contains the following:
 
 - `kook/` - code to extract recipes from printed recipes cards
+    - reads scans directly from `Apps/arbakker-kook` directory
+    - requires `kook/.env` file with `ACCESS_TOKEN` set 
 
-    Run with: `python3 kook/main.py -o data/output/recipes.json`
+    Run with: `python3 kook/main.py`
 
 - `webapp/` - webapp code
 
@@ -20,9 +22,7 @@ Repository containing code to extract recipes from printed recipe cards. Reposit
     ```
 
 - `scripts/` - Bash utility scripts; for copying over recipes and scans
-    - `copy-recipe-json.sh` - copy generated recipe json files to webapp
-    - `refresh-scans.sh` - refresh scans based on scans in `data/input/original-scans` folder
-    - `copy-recipe-json.sh` - update `original-scans` based latest `kook.zip` file in downloads dir, then runs `refresh-scans.sh`
+    - `clear-processed-recipes.sh` - remove processed recipe index and recipe json files from webapp, so next run of `kook/main.py` reprocesses all recipes
 
 
 ## Requirements
@@ -43,8 +43,12 @@ tesseract 4.1.1
 - [x] replace comma step title with nr.
 - [x] order recipes on title alpahbetically
 - [x] add copy to clipboard on ingredients list
-- [X] require password before accessing page
+- [x] require password before accessing page
+- [x] read scans directly from dropbox
+- [x] process only unprocessed recipes/scans
+- [x] generate index specifically for search
+- [ ] run python processing from Docker image
 - [ ] add check to verify if recipes are converted correctly, skip failing recipes
 - [ ] add keywords/tags/to recipes
-- [ ] generate index specifically for search
 - [ ] remove allcaps phrases like  VREE from steps
+
