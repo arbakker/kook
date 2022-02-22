@@ -36,10 +36,16 @@
         </v-expansion-panel-content>
       </v-expansion-panel>
     </v-expansion-panels>
-
-
-     
-     
+    <v-card-actions>
+      <v-btn 
+            :href="'https://github.com/arbakker/kook/edit/main/webapp/public/recipes/' + 
+            this.recipeSlug
+            + '.json'" target="_blank"
+            small 
+            title="Bewerk dit recept op Github">
+              <v-icon small>mdi-pencil</v-icon>
+            </v-btn>
+    </v-card-actions>
     </v-card>
      <v-btn style="top:2em;"
         color="blue"
