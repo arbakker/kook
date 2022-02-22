@@ -37,15 +37,14 @@ tesseract 4.1.1
   
 ## TODO
 
-X- add fuzzy search title/subtitle to frontpage
-X- add home button from recipe page
-X- sort steps on order title
-X- replace comma step title with nr.
-X- remove MS text from recipes
-X- order recipes on title alpahbetically
-X- add copy to clipboard on ingredients list
-- add check to verify if recipes are converted correctly, skip failing recipes
-- add keywords/tags/to recipes
-- generate index specifically for search
-- remove allcaps phrases like  VREE from steps
-- require password before accessing page
+- [x] add fuzzy search title/subtitle to frontpage
+- [x] add home button from recipe page
+- [x] sort steps on order title
+- [x] replace comma step title with nr.
+- [x] order recipes on title alpahbetically
+- [x] add copy to clipboard on ingredients list
+- [X] require password before accessing page
+- [ ] add check to verify if recipes are converted correctly, skip failing recipes
+- [ ] add keywords/tags/to recipes
+- [ ] generate index specifically for search
+- [ ] remove allcaps phrases like  VREE from steps
