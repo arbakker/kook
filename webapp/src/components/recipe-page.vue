@@ -64,7 +64,7 @@ export default {
   }),
   mounted() {
     const slug = this.recipeSlug;
-    fetch(`/recipes/${slug}.json`)
+    fetch(`./recipes/${slug}.json`)
       .then((response) => response.json())
       .then((data) => (this.recipe = data));
   },
