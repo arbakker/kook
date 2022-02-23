@@ -32,9 +32,11 @@ def main():
     proj_root = get_project_root()
     proj_kook_dir = get_project_kook()
 
-    if os.path.isfile(f"proj_kook_dir/.env"):
-        with open(f"proj_kook_dir/.env") as f:
+    if os.path.isfile(f"{proj_kook_dir}/.env"):
+        with open(f"{proj_kook_dir}/.env") as f:
             print(f.read())
+    else:
+        print(f"{proj_kook_dir}/.env file does not exist")
     
     REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
     APP_KEY = os.getenv("APP_KEY")
