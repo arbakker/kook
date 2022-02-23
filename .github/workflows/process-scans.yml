@@ -2,7 +2,7 @@ name: Process Scans in Dropbox
 on: 
   workflow_dispatch:
 jobs:
-  docker-build-and-run:
+  docker-run:
     runs-on: ubuntu-latest
     steps:   
       - name: Checkout 🛎️
@@ -17,6 +17,13 @@ jobs:
           cat ./kook/.env
       - name: Run Dockerfile
         run: |
-          docker run --env-file ./kook/.env arbakker/kook:latest
+          docker run \
+          --env-file ./kook/.env \
+          -v ./kook/output/processed-index.json:/kook/kook/output/processed-index.json \
+          -v ./webapp:/kook/webapp \
+          arbakker/kook:latest
+      - uses: EndBug/add-and-commit@v8
+        with:
+          default_author: github_actions
       
   
