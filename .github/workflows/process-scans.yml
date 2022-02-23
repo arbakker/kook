@@ -11,13 +11,13 @@ jobs:
           persist-credentials: false
       - name: Create env file
         run: |
-          touch /.env
-          echo APP_KEY=${{ secrets.APP_KEY }} >> /.env
-          echo REFRESH_TOKEN=${{ secrets.REFRESH_TOKEN }} >> /.env
+          touch .env
+          echo APP_KEY=${{ secrets.APP_KEY }} >> .env
+          echo REFRESH_TOKEN=${{ secrets.REFRESH_TOKEN }} >> .env
       - name: Run Dockerfile
         run: |
           docker run \
-          --env-file /.env \
+          --env-file .env \
           -v kook/output/processed-index.json:/kook/kook/output/processed-index.json \
           -v webapp:/kook/webapp \
           arbakker/kook:latest
