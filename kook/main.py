@@ -10,7 +10,6 @@ from dotenv import load_dotenv
 from lib import process_scans, get_project_kook, get_project_root
 
 
-
 def remove_images(r):
     r.pop("front_scan", None)
     r.pop("back_scan", None)
@@ -33,16 +32,16 @@ def main():
     proj_kook_dir = get_project_kook()
 
     if os.path.isfile(f"{proj_kook_dir}/.env"):
-        with open(f"{proj_kook_dir}/.env") as f:
-            print(f.read())
+        load_dotenv()
+        print("INFO: reading vars from .env file")
+        REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
+        APP_KEY = os.getenv("APP_KEY")
     else:
-        print(f"{proj_kook_dir}/.env file does not exist")
-    
-    REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
-    APP_KEY = os.getenv("APP_KEY")
+        print("INFO: reading vars from environment")
+        REFRESH_TOKEN = os.environ["REFRESH_TOKEN"]
+        APP_KEY = os.environ["APP_KEY"]
 
     with dropbox.Dropbox(oauth2_refresh_token=REFRESH_TOKEN, app_key=APP_KEY) as dbx:
-        
 
         # list files
         response = dbx.files_list_folder("")
@@ -74,10 +73,7 @@ def main():
             dbx.files_download_to_file(local_dl_path, remote_dl_path)
 
         print(f"INFO: preprocessing images in {tmp_dir_path}")
-        subprocess.run(
-            f"cp -r {tmp_dir_path} {tmp_dir_path}.bak",
-            shell=True
-        )
+        subprocess.run(f"cp -r {tmp_dir_path} {tmp_dir_path}.bak", shell=True)
         subprocess.run(
             f"mogrify  -bordercolor White -border 10x10 -resize 3400x {tmp_dir_path}/*.jpg",
             shell=True,
@@ -87,7 +83,7 @@ def main():
         to_process_local_files = glob.glob(f"{tmp_dir_path}/*.jpg")
         to_process_local_files.sort()
         recipes = process_scans(to_process_local_files)
-        
+
         # create processed-index
         tmp_processed_index = list(map(create_processed_index, recipes))
 
@@ -106,7 +102,7 @@ def main():
                 index_file_json = json.load(f)
 
         recipe_index = recipe_index + index_file_json
-        recipe_index.sort(key=lambda x:x["title"])
+        recipe_index.sort(key=lambda x: x["title"])
         with open(index_file_path, "w", encoding="utf-8") as f:
             json.dump(recipe_index, f, ensure_ascii=False, indent=4)
 
@@ -123,7 +119,6 @@ def main():
 
 
 if __name__ == "__main__":
-    load_dotenv()
     parser = argparse.ArgumentParser()
     # parser.add_argument("-o", "--output", help="JSON output file path", required=True)
     args = parser.parse_args()
