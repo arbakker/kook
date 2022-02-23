@@ -29,12 +29,18 @@ def create_recipe_index(r):
 
 
 def main():
+    proj_root = get_project_root()
+    proj_kook_dir = get_project_kook()
+
+    if os.path.isfile(f"proj_kook_dir/.env"):
+        with open(f"proj_kook_dir/.env") as f:
+            print(f.read())
+    
     REFRESH_TOKEN = os.getenv("REFRESH_TOKEN")
     APP_KEY = os.getenv("APP_KEY")
 
     with dropbox.Dropbox(oauth2_refresh_token=REFRESH_TOKEN, app_key=APP_KEY) as dbx:
-        proj_root = get_project_root()
-        proj_kook_dir = get_project_kook()
+        
 
         # list files
         response = dbx.files_list_folder("")
