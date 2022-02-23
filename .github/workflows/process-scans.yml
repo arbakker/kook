@@ -1,0 +1,21 @@
+name: Process Scans in Dropbox
+on: 
+  workflow_dispatch:
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:   
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Create env file
+        run: |
+          touch .env
+          echo APP_KEY=${{ secrets.APP_KEY }} >> ${{ github.workspace }}/kook/.env
+          echo REFRESH_TOKEN=${{ secrets.REFRESH_TOKEN }} >> ${{ github.workspace }}/kook/.env
+      - name: Run Dockerfile
+        uses: 'docker'
+        image: '${{ github.workspace }}/Dockerfile'
+      
+  

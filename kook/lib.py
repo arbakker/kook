@@ -4,7 +4,6 @@ from pathlib import Path
 import os
 import re
 import itertools
-import glob
 from slugify import slugify
 
 def get_project_kook():
