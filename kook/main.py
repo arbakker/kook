@@ -100,9 +100,12 @@ def main():
         if os.path.isfile(index_file_path):
             with open(index_file_path, "r", encoding="utf-8") as f:
                 index_file_json = json.load(f)
+        else:
+            Path(os.path.dirname(index_file_json)).mkdir(parents=True, exist_ok=True)
 
         recipe_index = recipe_index + index_file_json
         recipe_index.sort(key=lambda x: x["title"])
+
         with open(index_file_path, "w", encoding="utf-8") as f:
             json.dump(recipe_index, f, ensure_ascii=False, indent=4)
 
