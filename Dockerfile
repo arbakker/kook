@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
     python3 \
     python3-pip \
     tesseract-ocr \
+    tesseract-ocr-nld \
     imagemagick
 RUN python3 -m pip install -r /kook/kook/requirements.txt 
 CMD python3 /kook/kook/main.py 
