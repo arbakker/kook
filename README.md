@@ -47,10 +47,10 @@ tesseract 4.1.1
 - [x] read scans directly from dropbox
 - [x] process only unprocessed recipes/scans
 - [x] generate index specifically for search
-- [ ] run python processing from Docker image
-  - [ ] run python processing with GH Actions
-    - [ ] GH Action processing after files is uploaded to dropbox folder
-      - [ ] Redeploy webapp after running gh action processing
+- [x] run python processing from Docker image
+  - [x] run python processing with GH Actions
+    - [x] Redeploy webapp after running gh action processing
+      - [ ] GH Action processing after files is uploaded to dropbox folder
 - [ ] add check to verify if recipes are converted correctly, skip failing recipes
 - [ ] add keywords/tags/to recipes
 - [ ] remove allcaps phrases like  VREE from steps
