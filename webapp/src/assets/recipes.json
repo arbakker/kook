@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "title": "Bami goreng met garnalen",
+        "subtitle": "met paksoi en koriander",
+        "slug": "bami-goreng-met-garnalen"
+    },
+    {
+        "title": "Vegan kipburger met sriracha-mayo",
+        "subtitle": "en geroosterde aardappels",
+        "slug": "vegan-kipburger-met-sriracha-mayo"
+    }
+]
