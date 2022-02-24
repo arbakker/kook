@@ -18,8 +18,8 @@ jobs:
         run: |
           docker run \
           --env-file .env \
-          -v kook/output/processed-index.json:/kook/kook/output/processed-index.json \
-          -v webapp:/kook/webapp \
+          -v $(pwd)/kook/output/processed-index.json:/kook/kook/output/processed-index.json \
+          -v $(pwd)/webapp:/kook/webapp \
           arbakker/kook:latest
       - uses: EndBug/add-and-commit@v8
         with:
