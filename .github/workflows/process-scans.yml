@@ -2,6 +2,7 @@ name: Process Scans in Dropbox
 on: 
   workflow_dispatch:
   repository_dispatch:
+    types: [dropbox-webhook]
 jobs:
   docker-run:
     runs-on: ubuntu-latest
