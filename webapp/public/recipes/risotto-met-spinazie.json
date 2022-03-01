@@ -1,0 +1,48 @@
+{
+    "title": "Risotto met spinazie",
+    "subtitle": "en gebakken knoflookpaddestoelen",
+    "description": "In de Marley Spoon keuken wordt nogal het een en ander gegeten en uitgeprobeerd. De ene keer is het een schot in de roos, de andere keer een regelrechte ramp. Je weet dat je een hit te pakken hebt als iedereen in de rij staat om een gerecht te proeven, en dat gebeurde met deze risotto. Geloof het maar, zelfs de meest fervente _ paddenstoelenhater is na n hap bekeerd.",
+    "ingredients": [
+        "15g verse kruidenmix",
+        "peterselie en bieslook",
+        "1 kastanjechampignons en",
+        "oesterzammen",
+        "150g spinazie",
+        "1 groentebouillonblokje",
+        "40g italiaanse harde kaas",
+        "2 tenen knoflook",
+        "1 ui",
+        "10g gedroogde shiitake",
+        "200g carnarolirijst",
+        "azijn",
+        "olijfolie",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden",
+            "description": "Oven op 200C hetelucht/220C voorverwarmen. 700ml water in een kleine kookpan of waterkoker aan de kook brengen. Kastanjechampignons halveren. Oesterzwammen evt. van elkaar halen. Ui  en knoflook pellen en fijnhakken. Gedroogde shiitake in kleine stukjes snijden.  AR AR"
+        },
+        {
+            "title": "2. Ui bakken",
+            "description": "2el olijfolie in een grote koekenpan of wok op middelhoog vuur verhitten en ui in ca. 2-3min glazig en zacht bakken."
+        },
+        {
+            "title": "3. Paddenstoelen bakken",
+            "description": "Ondertussen oesterzwammen en kastanjechampignons op een bakplaat leggen en met 3el olijfolie, een flinke snuf zout en peper vermengen. Dan in ca. 20min knapperig en goudbruin in de oven bakken. Bouillonblokje en shiitake met 400m! gekookt water mengen."
+        },
+        {
+            "title": "4. Rijst toevoegen",
+            "description": "Ondertussen helft van de knoflook en alle rijst aan de uienpan toevoegen en 1- 2min roerend meebakken, dan  shiitakeb ouillon toevoegen. Vuur lager zetten en 10min zachtjes laten pruttelen terwijl je af en toe over de bodem van de pan roert. Peterselieblaadjes plukken en blaadjes samen met de bieslook fijnhakken. Kaas fijnraspen."
+        },
+        {
+            "title": "5. Risotto koken",
+            "description": "Na ca. 10min kooktijd heeft de rijst het merendeel van de bouillon opgenomen. Voeg dan beetje bij beetje meer van het gekookte water toe en laat de risotto zo 8min koken totdat de rijst gaar is. Regelmatig roeren om aankoeken te voorkomen."
+        },
+        {
+            "title": "6. Spinazie toevoegen",
+            "description": "Paddenstoelen uit de oven halen en met rest van de knoflook mengen. Spinazie aan risotto toevoegen, roeren en in 2-3min laten slinken. Dan gehakte kruiden, kaas, peper, zout en 1-2tl azijn door de risotto roeren en over kommen of diepe borden verdelen. Paddenstoelen bovenop serveren."
+        }
+    ]
+}

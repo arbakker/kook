@@ -1,0 +1,45 @@
+{
+    "title": "Citroen-broccoli en koolraap",
+    "subtitle": "met feta en harissadressing",
+    "description": "Harissa is een Noord-Afrikaanse rode kruidenmix met een pittigheidsniveau waar je U tegen zegt. Echter, met mate geeft het menig gerecht een krachtige oppepper. Geen wonder dus dat deze spicy mix gebruikt wordt bij de bereiding van couscous, rijstgerechten en soepen in de Afrikaanse cuisine. Vandaag zijn de harissakruiden de shining star in onze dressing voor deze citroenige salade. Feta erover verkruimelen en genieten maar.",
+    "ingredients": [
+        "5g falafelkruiden",
+        "150g feta",
+        "20g geschaafde amandelen",
+        "1 teen knoflook",
+        "1 citroen",
+        "1 broccoli",
+        "1 koolraap",
+        "125g rucola",
+        "5g harissakruiden",
+        "olijfolie",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten voorbereiden",
+            "description": "Oven op 200C hetelucht/220C voorverwarmen. Broccoli zonder stronk in kleine roosjes snijden. Koolraap schillen en in ca. 1,5cm grote blokjes snijden. Citroen doormidden snijden, een helft uitpersen. Andere helft in dunne schijfjes snijden."
+        },
+        {
+            "title": "2. Koolraap bakken",
+            "description": "Koolraapblokjes over een kant van een bakplaat met bakpapier verdelen, met 2el olijfolie, falafelkruiden, peper en voldoende zout mengen. Ongepelde knoflookteen ernaast leggen. Bakplaat onderin oven schuiven en koolraap in 20- 25min zacht en goudbruin bakken."
+        },
+        {
+            "title": "3. Broccoli bakken",
+            "description": "Broccoliroosjes met citroenschijfjes, 2el citroensap, lel olijfolie, flink wat peper en zout naar smaak husselen. Na 10min baktijd van de koolraap, de broccoli over de andere helft van de bakplaat verdelen en in 12-15min beetgaar bakken."
+        },
+        {
+            "title": "4. Dressing maken",
+            "description": "Ondertussen de helft van harissakruiden en 3el olijfolie in een kleine kom mengen; evt. meer harissa naar smaak toevoegen voor meer pit. Zodra de groenten bijna gaar zijn, voorzichtig de knoflookteen van de bakplaat halen. Velletje verwijderen en knoflookteen met een vork tot een puree prakken. Dan door de dressing roeren."
+        },
+        {
+            "title": "5. Feta verkruimelen",
+            "description": "Feta boven een kom grof verkruimelen. Grote koekenpan zonder olie op laag vuur verhitten en amandelschaafsel in ca. 1min goudbruin bakken. Let op: Pan regelmatig schudden om aanbranden te voorkomen."
+        },
+        {
+            "title": "6. Salade maken",
+            "description": "Rucola over borden verdelen. Evt. citroenschijfjes verwijderen. Broccoli met koolraap husselen en groenten over de sla verdelen. Fetakruimels en amandelschaafsel erover strooien, met harissadressing besprenkelen."
+        }
+    ]
+}

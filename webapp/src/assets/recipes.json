@@ -1,8 +1,23 @@
 [
     {
+        "title": "Aubergine caponata",
+        "subtitle": "met knapperig knoflookbrood",
+        "slug": "aubergine-caponata"
+    },
+    {
         "title": "Bami goreng met garnalen",
         "subtitle": "met paksoi en koriander",
         "slug": "bami-goreng-met-garnalen"
+    },
+    {
+        "title": "Cajun burger",
+        "subtitle": "met koolsla en geroosterde pompoen",
+        "slug": "cajun-burger"
+    },
+    {
+        "title": "Citroen-broccoli en koolraap",
+        "subtitle": "met feta en harissadressing",
+        "slug": "citroen-broccoli-en-koolraap"
     },
     {
         "title": "Eenpansgnocchi met courgette",
@@ -15,6 +30,11 @@
         "slug": "falafel-en-gekookte-eieren"
     },
     {
+        "title": "Farro met amandelen,",
+        "subtitle": "geroosterde spruitjes en dadels",
+        "slug": "farro-met-amandelen"
+    },
+    {
         "title": "Gnocchi-ovenschotel",
         "subtitle": "met champignons en spinazie",
         "slug": "gnocchi-ovenschotel"
@@ -25,6 +45,36 @@
         "slug": "goudbruin-gebakken-fetakaas"
     },
     {
+        "title": "Harissa-kip met venkelsalade",
+        "subtitle": "op volkoren quinoa met amandelen",
+        "slug": "harissa-kip-met-venkelsalade"
+    },
+    {
+        "title": "Heekfilet met sinaasappelvinaigrette",
+        "subtitle": "op bonte groenten met linzen en broccoli",
+        "slug": "heekfilet-met-sinaasappelvinaigrette"
+    },
+    {
+        "title": "Honing-mosterd kabeljauw",
+        "subtitle": "met spinazie en aardappels",
+        "slug": "honing-mosterd-kabeljauw"
+    },
+    {
+        "title": "Kabeljauw met dillekruim",
+        "subtitle": "op rode bietenrisotto",
+        "slug": "kabeljauw-met-dillekruim"
+    },
+    {
+        "title": "Nachos met kidneybonen en paprika",
+        "subtitle": "met kaassaus en salsa",
+        "slug": "nachos-met-kidneybonen-en-paprika"
+    },
+    {
+        "title": "Ovengeroosterde groenten",
+        "subtitle": "Griekse stijl met feta en munt",
+        "slug": "ovengeroosterde-groenten"
+    },
+    {
         "title": "Penne in saus van gehakt en vijgen",
         "subtitle": "met cherrytomaten en bieslook",
         "slug": "penne-in-saus-van-gehakt-en-vijgen"
@@ -33,6 +83,31 @@
         "title": "Quinoa-granaatappelsalade",
         "subtitle": "met walnoten en gegrilde aubergine",
         "slug": "quinoa-granaatappelsalade"
+    },
+    {
+        "title": "Risotto met spinazie",
+        "subtitle": "en gebakken knoflookpaddestoelen",
+        "slug": "risotto-met-spinazie"
+    },
+    {
+        "title": "Romige pasta",
+        "subtitle": "met prei, walnoten en tijm",
+        "slug": "romige-pasta"
+    },
+    {
+        "title": "Spaghetti alla norma",
+        "subtitle": "met kappertjes en geraspte kaas",
+        "slug": "spaghetti-alla-norma"
+    },
+    {
+        "title": "Taco's met aubergine en zoete aardappel",
+        "subtitle": "met guacamole en zwarte bonen mole",
+        "slug": "taco-s-met-aubergine-en-zoete-aardappel"
+    },
+    {
+        "title": "Turkse pide met rundergehakt",
+        "subtitle": "en een salade van komkommer en munt",
+        "slug": "turkse-pide-met-rundergehakt"
     },
     {
         "title": "Vegan kipburger met sriracha-mayo",
