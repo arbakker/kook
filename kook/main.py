@@ -46,6 +46,10 @@ def main():
         # list files
         response = dbx.files_list_folder("")
         remote_scan_files = [os.path.basename(x.name) for x in response.entries]
+        
+        if (len(remote_scan_files)% 2) != 0:
+            print(f"INFO: nr of files in dropbox folder is not even")
+            return
 
         # list processed index
         processed_index_path = f"{proj_kook_dir}/output/processed-index.json"
