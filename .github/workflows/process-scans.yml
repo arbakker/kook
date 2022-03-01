@@ -4,7 +4,18 @@ on:
   repository_dispatch:
     types: [dropbox-webhook]
 jobs:
+  pre-docker-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - name: 'Block Concurrent Executions'
+        uses: softprops/turnstyle@v1
+        with:
+          poll-interval-seconds: 10
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   docker-run:
+    needs: pre-docker-run
     runs-on: ubuntu-latest
     steps:   
       - name: Checkout 🛎️
