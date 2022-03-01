@@ -1,0 +1,33 @@
+name: Build and Deploy on Workflow Run
+on:
+  workflow_run:
+    workflows: [Process Scans in Dropbox]
+    types:
+      - completed
+defaults:
+  run:
+    working-directory: ./webapp
+jobs:
+  build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:   
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Create env file
+        run: |
+          touch .env
+          echo VUE_APP_PASSWORD=${{ secrets.VUE_APP_PASSWORD }} >> .env
+      - name: Install and Build 🔧
+        run: |
+          npm install
+          npm run-script build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: webapp/dist
+  
