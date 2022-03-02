@@ -1,0 +1,45 @@
+{
+    "title": "Lasagne met artisjokken en spinazie",
+    "subtitle": "met ricotta en kaas",
+    "description": "Soms sta je er versteld van hoe ongecompliceerd koken kan zijn, zelfs als het snel, kindvriendelijk en gemakkelijk moet zijn. Deze vegetarische lasagne met artisjokken, verse spinazie en romige ricotta is hier waarschijnlijk het beste voorbeeld van en maakt grote en kleine lekkerbekken vol en gelukkig. Eet smakelijk! ‘ :",
+    "ingredients": [
+        "100g babyspinazie",
+        "1ui",
+        "1 teen knoflook",
+        "1 zakje gedroogde oregano",
+        "1 blikje tomatenpuree",
+        "1 blik artisjokken",
+        "1 blokje harde kaas",
+        "1 kuipje ricotta",
+        "1 pakje verse lasagnebladen '",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui fruiten",
+            "description": "Verwarm de oven voor op 220C (200C hetelucht). Breng in een middelgrote kookpan voldoende gezouten aan de kook voor de spinazie. Halveer, pel en hak de ui fijn. Verhit een middelgrote koekenpan op middelhoog vuur met 2el olijfolie en fruit de ui met een flinke snuf zout en een snuf peper in 3-5min glazig. Pel en hak ondertussen de knoflook fijn."
+        },
+        {
+            "title": "2. Spinazie blancheren",
+            "description": "Voeg de spinazie toe aan het kokende water en blancheer ca. 20sec, tot de blaadjes geslonken zijn. Giet af in een zeef en spoel om met koud water. Knijp zoveel mogelijk vocht uit de spinazie."
+        },
+        {
+            "title": "3. Saus koken",
+            "description": "Doe de helft van de knoflook, de oregano en de tomatenpuree in de pan en bak ca. 2min mee. Blus af met lel azijn en 250ml water. Roer goed door. Laat 5-Bmin zachtjes koken, tot de saus iets ingedikt is.       ee:"
+        },
+        {
+            "title": "4. Artisjokken snijden",
+            "description": "Giet de artisjokken af, laat uitlekken en snijd ze in stukjes. Rasp de kaas fijn. Meng de ricotta met de helft van de geraspte kaas en de rest van de knoflook. Breng op smaak met zout en peper."
+        },
+        {
+            "title": "5. Lasagne maken",
+            "description": "Verdeel wat tomatensaus over de bodem van een middelgrote ovenschaal en bedek met een laag lasagnebladen. Verdeel er 1/3e van de ricottamix, 1/3e van de spinazie en 1/3e van de artisjokken over. Herhaal deze stappen tot alle ingredinten opgebruikt zijn, en eindig met een laag lasagnebladen. Let op: bewaar de tomatensaus!"
+        },
+        {
+            "title": "6. Lasagne bakken",
+            "description": "Verdeel de rest van de tomatensaus over de lasagne en bak de lasagrie 20-25min in de oven. Bestrooi met de rest van de kaas, snijd de lasagne in stukken en serveer,"
+        }
+    ]
+}
