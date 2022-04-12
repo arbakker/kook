@@ -1,0 +1,46 @@
+{
+    "title": "Romige kokos-pompoencurry",
+    "subtitle": "met bloemkool en cashewnoten",
+    "description": "dia Luster e wel pap va UEEV SC ne oveel pra ge varla e et dan OOK moeilijk kiezen. Tikka massala, korma, kip madras of palak paneer? Feit is, dat al deze smakelijke gerechten een flinke hoeveelheid voorbereiding vragen. Wij hebben er een bliksemsnelle variant van gemaakt waarbij de pompoen en bloemkool al voor je gesneden zijn en de saus wordt aangelengd met romige kokosmelk.",
+    "ingredients": [
+        "1 zakje cashewnoten",
+        "1 zakje kokosvlokken",
+        "200g basmatirijst",
+        "1 groentebouillonblokje",
+        "1 stukje verse gember",
+        "20g verse koriander",
+        "1 blik kokosmelk",
+        "1 verse groentenmix",
+        "bloemkool, pompoen & prei",
+        "10g madras currypoeder",
+        "plantaardige olie",
+        "peper en zout",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Rijst koken",
+            "description": "Breng 400ml water met een snuf zout in een middelgrote kookpan aan de kook. Was de basmatirijst in een zeef onder de kraan totdat het water helder is. Voeg de rijst toe zodra het water kookt, breng eenmaal opnieuw aan de kook en kook de rijst op : laag vuur met een deksel afgedekt in 10- 12min beetgaar. Neem van het vuur en laat afgedekt 5min rusten."
+        },
+        {
+            "title": "2. Aromaten bakken.",
+            "description": "Verhit intussen een middelgrote kookpan op middelhoog vuur. Voeg 1el olie en de helft van het madras currypoeder toe en bak al roerend 30sec, totdat het begint te geuren."
+        },
+        {
+            "title": "3. Curry maken",
+            "description": "Schud het blik kokosmelk een paar keer krachtig en voeg scheutje voor scheutje de melk aan de pan.toe, roer door totdat het poeder is opgelost. Verkruimel het bouillonblokje erboven en voeg ca. 100ml water toe."
+        },
+        {
+            "title": "4. Groenten toevoegen",
+            "description": "Voeg dan de verse groentemix toe en bak 8-12min totdat de pompoen zacht is, voeg evt. meer water toe. De saus moet zo dik als slagroom zijn. Breng de curry op smaak met zout, peper en evt. meer currypoeder."
+        },
+        {
+            "title": "5. Gember raspen",
+            "description": "Schil en rasp ondertussen de gember fijn. Voeg de rasp gelijk aan de pan toe en laat meekoken. Mocht je nog wat tijd overhebben, toast dan de cashewnoten en kokosvlokken in een droge kleine koekenpan op middellaag vuur 1-2min totdat ze goudbruin kleuren."
+        },
+        {
+            "title": "6. Topping maken",
+            "description": "Hak intussen de koriander grof en roer bijna alles door de curry. Hak de cashewnoten grof. Schep de rijst op, verdeel de curry erover en bestrooi met de kokosvlokken en cashewnoten, garneer met de rest van de koriander."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "title": "Gebakken zalm op linzenstoof",
+    "subtitle": "met appel-komkommersalade",
+    "description": "Zin meen gezonde en heermnjke maattija: Lan IS GEZE GEDAKKEN ZAIM MET HNZENSTOOT echt iets voor jou. Hij zit namelijk boordevol groenten, smaak en gezonde vetten dankzij de zalm. En met de appel-komkommersalade erbij krijg je ook nog een portie fruit binnen. Wat wil je nog meer?",
+    "ingredients": [
+        "mosterd",
+        "peper en zout",
+        "suiker",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui snijden",
+            "description": "Pel en hak de ui en knoflook fijn. Snijd de  bosui in dunne ringen.  €"
+        },
+        {
+            "title": "2. Wortel snijden",
+            "description": "Schil of schrob de wortel snijd 'm in de lengte in vieren en dan in blokjes. Snijd de bleekselderij in de lengte doormidden en dan ook in blokjes.  <"
+        },
+        {
+            "title": "3. Salade maken",
+            "description": "Snijd de appel in vieren, verwijder het klokhuis en snijd de appel in dunne schijfjes. Snijd de minikomkommer ook in dunne schijfjes en meng ze met de appel, 2el olijfolie, 2el azijn en een snuf zout, peper en suiker."
+        },
+        {
+            "title": "4. Linzen garen",
+            "description": "Verhit een middelgrote kookpan op middelhoog vuur met 1-2el olijfolie. Bak de ui en knoflook 1-2min en voeg dan de wortel en bleekselderij toe. Roer de linzen met vloeistof, 2el mosterd en 3el water erdoor. Doe een deksel op de pan en laat het geheel 6-7min zachtjes koken. Neem de deksel van de pan en kook nog ca. 3min."
+        },
+        {
+            "title": "5. Zalm voorbereiden",
+            "description": "Spoel de zalm af, dep de filets droog en controleer ze op graten. Wrijf de filets in met zout en peper."
+        },
+        {
+            "title": "6. Zalm bakken",
+            "description": "Verhit een middelgrote koekenpan op middelhoog vuur met 1-2el olijfolie. Bak de zalm 2-3min op de huidkant, draai om en bak nog 3-4min. Neem de pan van het vuur en laat de zalm 1-2min rusten. Schep de bosui door de linzenstoof en voeg 1tl azijn toe. Proef of je nog zout en peper wil toevoegen en serveer de stoof met de zalm en de salade."
+        }
+    ]
+}

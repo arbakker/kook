@@ -1,0 +1,42 @@
+{
+    "title": "Herfstsalade met geitenkaas",
+    "subtitle": "met volkorenpita en basilicumdressing",
+    "description": "VEZE KIEUITIJKE NETTSUGE SalaAE SMaaKt NIET an EEN. NEENIJK, METIS OOK BEN ECNTE blikvanger: de pastinaak, wortel en mooie rode bieten passen qua kleur perfect bij de frisse veldsla. Qua smaak vullen ze elkaar ook prachtig aan met de knapperige croutons van volkorenpita en een romige dressing van knoflook, tomaat, basilicum - en niet te vergeten, de lekkerste verse geitenkaas!",
+    "ingredients": [
+        "1 pastinaak",
+        "1 wortel",
+        "1 rode biet",
+        "1 tomaat",
+        "1 teen knoflook",
+        "1 pak volkorenpita",
+        "10g verse basilicum",
+        "1 zachte geitenkaas",
+        "50g veldsla",
+        "honing",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten snijden",
+            "description": "Verwarm de oven voor op 240C (220C hetelucht). Schil de pastinaak en snijd in vingerdikke staafjes. Schil of schrob de wortel en snijd ook in staafjes. Schil de biet en snijd in partjes, draag hierbij evt. keukenhandschoenen en een schort. Halveer de tomaat."
+        },
+        {
+            "title": "3. Pitabrood snijden",
+            "description": "Snijd 2 pitabroodjes in stukjes. De rest van de pita's heb je niet nodig voor dit recept."
+        },
+        {
+            "title": "4. Dressing pureren",
+            "description": "Neem de tomaten en de knoflook uit de oven. Pel de knoflook voorzichtig. Hak de basilicum incl. steeltjes grof. Doe 3/4e van de geitenkaas in een hoge (maat)beker met de knoflook, de tomaathelften, de basilicum, 1tl honing, 1tl lichte azijn en een snuf zout en peper. Pureer tot een romige dressing.     Leg de tomaathelften met het snijvlak naar  boven op een bakplaat met bakpapier. Verdeel de rest van de groenten en de ongepelde knoflook ernaast. Besprenkel alles met 2el olijfolie en bestrooi met 1/2tl zout en een snuf peper. Bak 20-25min goudbruin in de oven."
+        },
+        {
+            "title": "5. Croutons roosteren",
+            "description": "Neem de groenten uit de oven en leg ze naast de veldsla op borden. Verdeel de pitastukjes over de bakplaat en hussel om met 1tl olijfolie. Bak ze in 3-5min tot knapperige croutons."
+        },
+        {
+            "title": "6. Afmaken en serveren",
+            "description": "Verdeel de croutons over de groenten en de veldsla. Besprenkel de salade met de dressing en bestrooi met de rest van de zachte getenkaas."
+        }
+    ]
+}

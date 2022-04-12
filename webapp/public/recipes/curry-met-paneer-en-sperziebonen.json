@@ -1,0 +1,48 @@
+{
+    "title": "Curry met paneer en sperziebonen",
+    "subtitle": "met cherrytomaten, wortelsla en basmatirijst",
+    "description": "Vandaag maak je je eigen kruidenpasta voor de curry. Dat is niet alleen makkelijk, maar ook ontzettend lekker. En omdat je de hele handel gewoon pureert kost het je ook nauwelijks tijd. Je zet dus nog steeds in een handomdraai een heerlijk maaltijd op tafel.",
+    "ingredients": [
+        "150g basmatirijst",
+        "1 stukje verse gember",
+        "1 teen knoflook",
+        "1 rode ui",
+        "1 paneer",
+        "100g sperziebonen",
+        "1 zakje curry-madraskruiden",
+        "250g cherrytomaten",
+        "1 wortel",
+        "1 limoen",
+        "1 zakje groentebouillonpoeder",
+        "honing",
+        "peper en zout",
+        "plantaardige olie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Rijst koken",
+            "description": "Breng 300ml licht gezouten water aan de kook in een kleine kookpan. Was de rijst grondig in een zeef. Voeg toe aan het kokende water en breng opnieuw aan de kook. Draai het vuur helemaal laag, doe een deksel op de pan en kook de rijst in 10- 12min gaar. Neem de pan van het vuur en laat de rijst afgedekt rusten."
+        },
+        {
+            "title": "2. Kruidenpasta pureren",
+            "description": "Schil de gember, pel de knoflook en hak beide grof. Pel en hak de ui grof. Doe 3/4e van de gember in een hoge (maat)beker met de knoflook, ui en 1-2el water. Pureer tot een gladde pasta."
+        },
+        {
+            "title": "3. Pariser bakken",
+            "description": "Snijd de paneer in blokjes. Verhit een grote koekenpan op wok op medium tot hoog vuur met 2el olie. Bak de paneer in 3-4min rondom goudbruin. Neem uit de pan en houd afgedekt warm. Dop de sperziebonen en halveer ze."
+        },
+        {
+            "title": "4. Curry opzetten",
+            "description": "Zet de gebruikte pan terug op medium tot hoog vuur en Voeg de kruidenpasta en de curry-madraskruiden toe. Roerbak 2-3min en voeg dan de cherrytomaten en een flinke snuf zout en peper toe. Bak nog ca. 1min."
+        },
+        {
+            "title": "5. Salade maken",
+            "description": "Schil of schrob de wortel en rasp 'm grof. Pers de limoen uit en meng het sap met de rest van de gember, {tl honing en een snuf zout en peper. Meng de dressing met de wortelrasp."
+        },
+        {
+            "title": "6. Curry afmaken —",
+            "description": "Voeg de helft van het bouillonpoeder en 200ml heet water toe aan de pan en laat het geheel ca. 5min koken. Voeg de sperziebonen toe en kook 3-5min mee. Plet de cherrytomaten met je spatel. Breng de curry op smaak met zout, peper en 2el azijn. Schep de paneer erdoor en warm in ca. 1min op. Verdeel de curry en rijst over de borden en serveer met de __wortelsalade."
+        }
+    ]
+}

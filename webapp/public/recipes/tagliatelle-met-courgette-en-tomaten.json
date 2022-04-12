@@ -1,0 +1,42 @@
+{
+    "title": "Tagliatelle met courgette en tomaten",
+    "subtitle": "in romige basilicum-kaassaus",
+    "description": "Valt UELT HET HKS GIEL dotd FEES EEE LOES TONG GEMAKKEN LOUIGELS Si SE Lj saus van crme frache en verse basilicum wordt iedereen aan tafel blij. Een simpel en snel gerecht - perfect na een lange dag!",
+    "ingredients": [
+        "250g tagliatelle",
+        "2 courgettes",
+        "1 rode ui",
+        "40g gedroogde tomaten",
+        "2 blokjes harde kaas",
+        "10g verse basilicum",
+        "1 citroen",
+        "1 kuipje crme frache",
+        "peper en zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Courgette raspen",
+            "description": "Breng ruim gezouten water aan de kook voor de pasta in een middelgrote kookpan. Rasp de courgettes grof en knijp er met je handen of een schone doek zoveel mogelijk vocht uit. Halveer, pel en snijd de ui in dunne reepjes."
+        },
+        {
+            "title": "2. Saus voorbereiden",
+            "description": "Giet de gedroogde tomaten af en laat uitlekken, vang de tomatenolie op. Snijd de tomaten in dunne reepjes. Verkruimel de kaas grof. Pluk de basilicumblaadjes. Als je wilt kun je de steeltjes grof hakken en ook gebruiken. Rasp de helft van de citroenschil en pers de citroen uit."
+        },
+        {
+            "title": "3. Groenten bakken",
+            "description": "Verhit een grote koekenpan op middelhoog vuur met de opgevangen tomatenolie en bak de courgette, ui en de gedroogde tomaat 4-5min. Voeg evt. nog 1tl olijfolie toe. Breng op smaak met zout en peper, voeg ca. 1tl citroenrasp toe en houd de groenten op laag vuur warm."
+        },
+        {
+            "title": "4. Pasta koken",
+            "description": "Voeg de pasta toe aan het kokende water en kook in 7-9min beetgaar. Giet af, laat schrikken met koud water en laat uitlekken."
+        },
+        {
+            "title": "5. Saus pureren",
+            "description": "4 Doe de crme frache met de basilicumblaadjes en steeltjes als je ze gebruikt, de verkruimelde kaas en 1-2tl citroensap in een hoge (maat)beker. Pureer glad en breng op smaak met zout en peper."
+        },
+        {
+            "title": "6. Pasta afmaken",
+            "description": "Voeg de pasta en de basilicumsaus toe aan de courgettepan, schep alles om en serveer."
+        }
+    ]
+}

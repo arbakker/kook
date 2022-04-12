@@ -1,0 +1,36 @@
+{
+    "title": "Mexicaanse quesadilla's",
+    "subtitle": "met kidneybonen en tomatensalsa",
+    "description": "Een Spaanstalig spreekwoord luidt: \"panza Ilena, corazn contenta\". Ofwel: is je buik vol, dan is het hart tevreden. En deze heerlijke quesadilla's gaan daarvoor zorgen, want met de lekkere tomatensalsa zet je geheid een hit op tafel. Overigens hebben we het Mexicaanse broertje van de tosti niet alleen gevuld met kaas, maar ook met geraspte courgette. Voor net een beetje extra bite en vitamines.",
+    "ingredients": [
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Salsa maken",
+            "description": "Snijd de tomaten in vieren, verwijder de stronk. Halveer, pel en hak de ui fijn. Doe de helft van de ui met de tomaten, 2el olijfolie en 1/2tl zout in een hoge (maat)beker en pureer fijn. Breng op smaak met de Mexicaanse kruiden en zet de salsa in de koelkast tot het serveren."
+        },
+        {
+            "title": "2. Courgette raspen",
+            "description": "Rasp de courgette grof. Doe de rasp in een zeef en druk er zoveel mogelijk vocht uit. Hak de peterselie incl. steeltjes fijn."
+        },
+        {
+            "title": "3. Bonensalade maken",
+            "description": "Spoel de kidneybonen in een zeef met koud water en laat uitlekken. Verwijder de kern en snijd de paprika in kleine blokjes. Houd 1el peterselie opzij en klop de rest van de peterselie met 1el olijfolie, 1-2el azijn en een snuf zout en peper tot een dressing. Meng de bonen met de dressing en laat trekken tot het serveren."
+        },
+        {
+            "title": "4. Quesadilla's vullen",
+            "description": "Meng de courgette met de rest van de ui, de bewaarde peterselie en de kaas. Breng op smaak met zout en peper. Verdeel de courgette-kaasvulling over 2 wraps, zorg dat je rondom een ca. 2em brede rand vrijhoudt. Bedek elk met 1 wrap. Verhit een grote koekenpan op middelhoog vuur."
+        },
+        {
+            "title": "5. Quesadilla's bakken",
+            "description": "Bak de eerste quesadilla 3-4min in de droge, grote koekenpan. De kaas moet smelten, maar het moet er niet uit lekken. Zet het vuur lager als de wrap te snel donker wordt. Draai de quesadilla voorzichtig om als de kaas gesmolten is en bak nog 2-3min. Herhaal met de tweede quesadilla."
+        },
+        {
+            "title": "6. Quesadilla's serveren",
+            "description": "Snijd de quesadilla's met een scherp mes’in vieren en serveer met de bonensalade en de salsa. Tip: mocht je nog vulling over houden, klop het dan los met 2-3 eieren en bak er een omelet van voor een lekker ontbijt."
+        }
+    ]
+}

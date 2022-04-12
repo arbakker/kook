@@ -1,0 +1,46 @@
+{
+    "title": "Gepaneerde Hollandse kaas",
+    "subtitle": "met aardappel-knolselderijstamppotje",
+    "description": "een kruidig broodkruimjasje. De streekkaas krijgt dankzij de bereidingswijze een bijzonder smeuge structuur en een lichtzoete smaak, die ook bij het bakken in de oven behouden blijft. Om het plaatje compleet te maken, serveer je er een koolraapstamppot met geroosterde stukjes courgette bij.",
+    "ingredients": [
+        "25g verse kruidenmix: munt,",
+        "peterselie en tijm",
+        "2 bleekselderij",
+        "1 knolselderij",
+        "1 courgette",
+        "500g kruimige aardappels",
+        "e 1 stuk noord-hollandse",
+        "belegen kaas",
+        "25g panko",
+        "1 baby snijbit",
+        "zwarte peper",
+        "zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Aardappels koken",
+            "description": "Oven op 225C hetelucht/240C voorverwarmen. Grote kookpan met gezouten water voor de aardappels aan de kook brengen. Aardappels en knolselderij schillen en in 2cem grote stukken snijden. Zodra het water kookt, aardappels en knolselderij toevoegen en in ca. 15min gaar koken."
+        },
+        {
+            "title": "2. Courgette roosteren",
+            "description": "Ondertussen iteinda ceurgette verwijderen, in de lengte in vieren snijden en dan in ca. 2cem grote stukken snijden. Courgette op bakplaat met bakpapier verdelen, met 1el olie, zout en peper besprenkelen en mengen. Bakplaat in de oven schuiven en courgette in ca. 10min goudbruin en gaar bakken."
+        },
+        {
+            "title": "3. Kruiden voorbereiden",
+            "description": "Ondertussen blaadjes van. de tijm, munt en peterselie plukken. Munt-en peterselieblaadjes apart van elkaar fijnhakken. Steeltjes wegdoen. Bleekselderij in dunne plakjes snijden en opzij zetten."
+        },
+        {
+            "title": "4. Kaas paneren",
+            "description": "Tijm en peterselie in een kommetje mengen. Dan ca. 4el olijfolie in een 2e kommetje doen. Panko op een klein bord doen. Kaas in plakken van ca. 1cm srjden. Kaas door olie, dan door verse kruiden en tot slot door panko halen zodat de kaas aan alle kanten bedekt is. Kaasplakken op 2e bakplaat met bakpapier leggen. Met overgebleven panko bestrooien."
+        },
+        {
+            "title": "5. Stamppot maken",
+            "description": "Na ca. 15min kooktijd, aardappels en knolselderij afgieten en terug in de pan doen. Goed kruiden met peper en zout en met een aardappelstamper een stamppot maken. Munt, baby snijbiet en 1el olijfolie erdoor roeren. Dan bleekselderij en geroosterde courgette door de stamppot roeren en pan afgedekt warm opzij zetten."
+        },
+        {
+            "title": "6. Kaas bakken",
+            "description": "Kaas ca. 2min in de oven bakken. Kijk dan of de kaas begint te smelten, maar zijn vorm behoudt en het pankolaagje goudbruin kleurt. Evt. nog 30sec-1min langer bakken. Kaasplakjes met de stamppot serveren."
+        }
+    ]
+}

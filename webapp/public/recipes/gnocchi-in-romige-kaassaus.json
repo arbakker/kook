@@ -1,0 +1,46 @@
+{
+    "title": "Gnocchi in romige kaassaus",
+    "subtitle": "met mas en gebakken champignons",
+    "description": "In het kader van het oogstseizoen zetten we vandaag twee belangrijke ingredinten in de spotlight: champignons en mas. Beide zijn nu in het siezoen en gaan perfect samen met de romige saus met gedroogde tomaten en prei. Je serveert ze samen met zachte gnocchi.",
+    "ingredients": [
+        "1 prei",
+        "250g champignons",
+        "40g gedroogde tomaten",
+        "1 teen knoflook",
+        "1 blik mas",
+        "500g gnocchi",
+        "1 zakje groentebouillonpoeder",
+        "1 kuipje crme frache",
+        "10g verse peterselie",
+        "1 blokje harde kaas",
+        "peper en zout",
+        "suiker",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten voorbereiden",
+            "description": "Snijd de prei in de lengte doormidden en dan in dunne reepjes. Schrob de champignons evt. en halveer ze of snijd ze in vieren afhankelijk van de grootte. Snijd de gedroogde tomaten in reepjes. Pel en hak de knoflook fijn. Giet de mas af en laat uitlekken. Breng in een middelgrote kookpan voldoende gezouten water aan de kook voor de gnocchi."
+        },
+        {
+            "title": "2. Saus maken",
+            "description": "Verhit een grote koekenpan op middelhoog vuur met 1tl olijfolie. Bak de knoflook ca. 1min. Voeg de prei en 1/2tl suiker toe en bak ca. 5min. Voeg de mas en de helft van het bouillonpoeder toe. Blus af met 50ml water en roer de crme frache erdoor. Proef en breng op smaak met zout. Leg een deksel op de pan en laat de saus ca. 10min pruttelen."
+        },
+        {
+            "title": "3. Groenten bakken",
+            "description": "Verhit een middelgrote koekenpan op hoog vuur met fel olijfolie en bak de champignons en de gedroogde tomaten 4-5min. Breng op smaak met zout en peper."
+        },
+        {
+            "title": "4. Gnocchi koken",
+            "description": "Voeg de gnocchi toe aan het kokende water en kook in 3-4min gaar. Giet af in een zeef en laat uitlekken."
+        },
+        {
+            "title": "5. Peterselie hakken",
+            "description": "Hak de peterselie incl. steeltjes fijn. Rasp de kaas fijn."
+        },
+        {
+            "title": "6. Saus afmaken",
+            "description": "Roer de kaas en ca. 1el peterselie door de saus. Meng dan de gnocchi met de saus, de champignons en gedroogde tomaten. Proef en breng op smaak met zout en peper. Verdeel de gnocchi over borden en bestrooi met de rest van de peterselie."
+        }
+    ]
+}

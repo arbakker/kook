@@ -7,11 +7,19 @@ class TestClass:
 
     def test_ocr_image(self):
         proj_kook_dir = get_project_kook()
-        images=(f"{proj_kook_dir}/test-data/2022-02-21 13.59.21.jpg",
-            f"{proj_kook_dir}/test-data/2022-02-21 14.01.36.jpg"
+        images=(
+            # f"{proj_kook_dir}/test-data/2022-02-21 13.59.21.jpg",
+            # f"{proj_kook_dir}/test-data/2022-02-21 14.01.36.jpg",
+            f"{proj_kook_dir}/test-data/kip-karamel-1.png",
+            f"{proj_kook_dir}/test-data/kip-karamel-2.png"
+
         )
         self.__class__.front_text = ocr_image_front(f"{images[0]}")
         self.__class__.back_text = ocr_image(f"{images[1]}")
+
+        print(self.front_text)
+        print(self.back_text)
+
         assert self.front_text is not "" 
         assert self.back_text is not "" 
 

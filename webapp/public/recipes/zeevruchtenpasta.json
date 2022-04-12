@@ -1,0 +1,46 @@
+{
+    "title": "Zeevruchtenpasta | |",
+    "subtitle": "met paprika, courgette en kruiden |",
+    "description": "Is er nou nog iets beters dan een dampend bord vol pasta dat op je wacht? Jazeker, een pastarecept dat in een handomdraai te bereiden is! De zeevruchten zijn in luttele minuten gaar en serveer je met de Zuid-Italiaanse broer van de gnocchi: gnoecchetti, een kleine pastasoort met een schelpachtige vorm en ribbeltjes aan de buitenkant. Genieten geblazen!",
+    "ingredients": [
+        "20g verse kruidenmix: oregano",
+        "en munt",
+        "ixfruits de mer (mosselen, -",
+        "coquilles, inktvisjes, garnaal)",
+        "1 citroen",
+        "1 rode ui",
+        "1 rode paprika",
+        "1 courgette",
+        "250g gnoecchetti",
+        "25g kappertjes",
+        "olijfolie",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden",
+            "description": "Grote kookpan gezouten water voor de pasta aan de kook brengen. Intussen uiteinde courgette verwijderen, in de lengte in vieren snijden en elk stuk in 1em dikke plakjes snijden. Ui pellen, halveren en fijnhakken."
+        },
+        {
+            "title": "2. Paprika snijden",
+            "description": "Paprika in de lengte halveren, kern en zaadjes verwijderen en in 1,5-2cm grote stukken snijden. Blaadjes van verse kruiden plukken, steeltjes wegdoen. Verse kruiden fijnhakken. Citroenschil fijnraspen, citroensap uitpersen. Zodra het water kookt, gnocchetti toevoegen en in ca. 8-10min net beetgaar koken. Afgieten en terug in de pan doen."
+        },
+        {
+            "title": "3. Fruits de mer bakken",
+            "description": "_ Ondertussen grote koekenpan met 1el olie  op middelhoog vuur verhitten. Fruits de mer toevoegen en 2-3min gaar bakken. Fruits de mer met vrijgekomen vocht in een kom doen en opzij zetten."
+        },
+        {
+            "title": "4. Groenten bakken",
+            "description": "Grote koekenpan uit stap 3 opnieuw op middelhoog vuur verhitten en 1el olie toevoegen. Zodra de pan goed heet is, courgette, ui en paprikastukjes toevoegen en in ca. 6-Bmin gaar bakken. Goed op smaak brengen met zout en peper."
+        },
+        {
+            "title": "5. Dressing maken",
+            "description": "Ondertussen in een kleine kom 1el citroensap, 1-2tl citroenrasp, 2el olie, helft van de verse kruiden en een snufje zout en peper mengen. Naar smaak meer citroensap toevoegen."
+        },
+        {
+            "title": "6. Pasta mengen",
+            "description": "Groenten en fruits de mer aan pastapan toevoegen en mengen. Dan dressing en kappertjes aan pasta toevoegen en mengen. Geheel op smaak brengen met peper en zout, pasta over borden verdelen en met overige verse kruiden bestrooien."
+        }
+    ]
+}

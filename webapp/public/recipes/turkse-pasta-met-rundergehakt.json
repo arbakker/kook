@@ -1,0 +1,48 @@
+{
+    "title": "Turkse pasta met rundergehakt,",
+    "subtitle": "yoghurtsaus en pijnboompitten",
+    "description": "De Turkse keuken kent dankzij talloze invasies van volkeren een brede variatie aan gerechten. Kenmerkend zijn en blijven lange bereidingstijden en het gebruik van kruiden en yoghurt. Voor dit pasta-gerecht hoef je gelukkig geen uren in de keuken te staan. Je kookt de spelt fussili beetgaar terwijl je in een andere pan een stevige saus maakt van aubergine, gehakt en… Baharat: een specerijenmix met een complexe, hartige smaak.",
+    "ingredients": [
+        "1 rundergehakt",
+        "1 zakje pijnboompitten",
+        "eu",
+        "1 beker yoghurt",
+        "e 3 tenen knoflook",
+        "2 pakjes boter",
+        "1 aubergine",
+        "2 mini-komkommers",
+        "5g baharat",
+        "10g verse munt",
+        "250g speltfusili",
+        "zout",
+        "zwarte peper",
+        "olijfolie",
+        "e azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden",
+            "description": "Verwarm de oven voor op 200C hetelucht/225 Breng een grote kookpan ruim gezouten water voor de pasta aan de kook. Snijd de aubergine zonder stronk in 1,5cm grote stukken. Halveer, pel en hak de ui grof. Pel 2 knoflooktenen en hak ze grof."
+        },
+        {
+            "title": "2. Aubergine roosteren",
+            "description": "Leg de aubergine op een bakplaat met bakpapier, hussel om met 2el olie, zout en peper. Bak de aubergine 15-20min midden in de oven tot de stukjes zacht en een beetje krokant zijn. Voeg de fusilli toe zodra het water kookt en kook in 9-12min beetgaar. Vang bij het afgieten 1 kopje pastawater op, doe de pasta terug in de pan en meng met een scheut olie."
+        },
+        {
+            "title": "3. Gehakt braden",
+            "description": "Verhit intussen 1el olie in een grote koekenpan op middelhoog vuur. Voeg de gehakte knoflook en ui toe, bak 1-2min tot ze een beetje zacht zijn. Voeg het undergehakt met een flinke snuf zout en peper toe en bak al roerend 5-7min om het gehakt los te maken."
+        },
+        {
+            "title": "4. Yoghurtsaus maken",
+            "description": "Rooster intussen de pijnboompitten in een droge kleine koekenpan in 1-2min goudbruin Neem uit de pan en zet opzij. Verhit dan de boter in dezelfde pan, bak 2- 3min tot het bruin begint te kleuren en nootachtig ruikt. Pel de overige knoflook en rasp fijn. Roer de boter en knoflook door de yoghurt. Gebruik de knoflook niet als je deze niet rauw lust."
+        },
+        {
+            "title": "5. Komkommersalade maken",
+            "description": "Halveer de mini-komkommers in de lengte, snijd in dunne halve maantjes. Meng de komkommerplakjes met 1el olie, 1el azijn en een snuf zout en peper. Pluk de muntblaadjes, hak ze fijn en doe steeltjes weg."
+        },
+        {
+            "title": "6. Pasta afmaken.",
+            "description": "Roer de baharat, aubergine en 3/4munt door het gehakt. Voeg de pasta en  1/2 kopje pastawater aan de gehaktpan toe, roer en voeg beetje bij beetje meer water toe totdat een stevige saus ontstaat. Breng op smaak met peper en zout. Schep de pasta op, garneer met yoghurtsaus, pijnboompitten en overige munt. Serveer de salade ernaast."
+        }
+    ]
+}

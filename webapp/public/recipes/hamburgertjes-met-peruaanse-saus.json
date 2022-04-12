@@ -1,0 +1,49 @@
+{
+    "title": "Hamburgertjes met Peruaanse saus",
+    "subtitle": "met sperziebonen, wortel en jasmijnrijst",
+    "description": "Hamburgertjes met gestoofde groenten en jasmijnrijst lijken op het eerste gezicht geen wervelend creatieve maaltijd, maar de twist zit 'm in de heerlijke saus die je erbij serveert. De combinatie van basilicum, koriander en chilipeper, is typisch Peruaans en smaakt bovendien heerlijk. De saus is ook nog eens doodeenvoudig om te maken, dus tel uit je winst!",
+    "ingredients": [
+        "200g jasmijnrijst",
+        "250g sperziebonen",
+        "1 wortel",
+        "\" 1 stukje verse gember",
+        "1 teen knoflook",
+        "1 verse chilipeper",
+        "1 blokje harde.kaas",
+        "1 rundergehakt",
+        "1 zakje guacamolekruiden",
+        "20g verse kruidenmix",
+        "basilicum & koriander",
+        "mayonaise",
+        "honing",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Rijst koken",
+            "description": "Breng 400ml licht gezouten water aan de kook in een kleine kookpan. Was de rijst grondig in een zeef. Voeg toe aan het kokende water en breng opnieuw aan de kook. Draai het vuur helemaal laag, doe een deksel op de pan en kook de rijst in 10- 12min gaar. Neem de pan van het vuur en laat de rijst afgedekt rusten. ,"
+        },
+        {
+            "title": "2. Ingredinten voorbereiden",
+            "description": "Dop de sperziebonen. Schil of schrob de wortel en snijd ‘m in dunne plakjes. Schil en hak of rasp de gember fijn. Pel de knoflook. Halveer de chilipeper in de lengte en verwijder de zaadlijsten als je niet van pittig houdt. Rasp de kaas fijn."
+        },
+        {
+            "title": "3. Gehakt mengen",
+            "description": "Meng het gehakt met de guacamolekruiden, 1/2t| zout en een flinke snuf peper. Kneed goed en vorm 4 ballen. Druk ze plat tot een dikte van 1-2cm."
+        },
+        {
+            "title": "4. Hamburgertjes braden",
+            "description": "Verhit een grote koekenpan op middelhoog tot hoog vuur met 1el olijfolie. Braad het vlees in 6-8min rondom goudbruin en gaar. Schep op een bord en zet de pan terug op het vuur."
+        },
+        {
+            "title": "5. Groenten garen",
+            "description": "Voeg de bonen en wortel toe aan de koekenpan, met de helft van de gember, 1t honing, fel azijn en een snuf zout en peper. Bak ca. 2min en voeg 25ml water toe. Laat het geheel nog 3-5min garen. Doe het vlees weer in de pan en warm in ca. 1min op."
+        },
+        {
+            "title": "6. Saus pureren",
+            "description": "Doe de rest van de gember in een hoge (maat)beker met de verse kruiden incl. steeltjes, de knoflook, kaas, de helft van de chilipeper, 2el mayonaise, 2el azijn, 2el water en een snuf zout. Pureer tot een romige saus en proef of je nog zout en peper wil toevoegen. Verdeel de rijst het vlees en de groenten over de borden en schenk de saus erover."
+        }
+    ]
+}

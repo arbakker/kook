@@ -1,0 +1,48 @@
+{
+    "title": "Bonte ovengroenten",
+    "subtitle": "met lauwwarme bulgursalade en feta",
+    "description": "Onze goed gevulde bulgursalade staat niet allee : jd of  op jouw bord of in een grote serveerschaal prachtig uit. De toon wordt gezet door de geurige dressing op basis van munt en citroenrasp. De herfstgroenten uit de oven en verbrokkelde feta maken de culinaire reis naar het Midden-Oosten af.",
+    "ingredients": [
+        "5g just greens salad",
+        "seasoning",
+        "1 groentebouillonblokje",
+        "ixfeta",
+        "1 rode paprika",
+        "1 rode bieten",
+        "1 wortels",
+        "10g verse munt",
+        "1 teen knoflook",
+        "jul",
+        "1 citroen",
+        "1 courgette",
+        "150g bulgur",
+        "olijfolie",
+        "peper en zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Bieten snijden",
+            "description": "Verwarm de oven op 200C hetelucht/220C voor. Schil de rode bieten en snijd ze in 1cm brede partjes. Verdeel de bietenpartjes over een bakplaat met bakpapier en hussel  om met 1el olie, zout en peper. Bak alvast ca.  B5min in de oven."
+        },
+        {
+            "title": "2. Groenten voorbereiden",
+            "description": "Halveer intussen de paprika, verwijder de kern en snijd in 1em brede repen. Snijd de courgette en wortels in de lengte in vieren en dan in ca. 2cm grote stukken. Voeg alles aan de bakplaat met bieten toe en hussel om met de specerijenmix, zout en peper. Bak de groenten ca. 10min."
+        },
+        {
+            "title": "3. Aromaten snijden",
+            "description": "Pel intussen de ui en snijd deze in 1cm brede partjes. Pel en snijd de knoflook in dunne plakjes. Neem na 10min de bakplaat uit de oven, hussel de aromaten door de ovengroenten en bak 10min, totdat alles gaar is."
+        },
+        {
+            "title": "4. Citroen raspen",
+            "description": "Breng intussen een middelgrote kookpan met gezouten water voor de bulgur aan de kook. Rasp de citroenschil fijn en pers de citroen uit."
+        },
+        {
+            "title": "5. Bulgur koken",
+            "description": "Verkruimel de helft van het bouillonblokje boven het kokende water en voeg dan de bulgur toe. Breng eenmaal opnieuw aan de kook en kook de bulgur met een deksel afgedekt op middelhoog vuur in 7-10min beetgaar. Giet het water af. Pluk ondertussen de muntblaadjes en hak deze grof, doe de steeltjes weg."
+        },
+        {
+            "title": "6. Topping maken",
+            "description": "Verkruimel de feta grof en meng met de helft van de munt en 1tl citroenrasp erdoor. Roer de rest van de munt door de gekookte bulgur en breng op smaak met 1el citroensap, zout en peper. Schep de bulgur en groenten op en verdeel de kaastopping erover."
+        }
+    ]
+}

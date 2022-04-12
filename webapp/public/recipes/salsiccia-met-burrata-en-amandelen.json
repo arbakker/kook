@@ -1,0 +1,40 @@
+{
+    "title": "Salsiccia met burrata en amandelen",
+    "subtitle": "met rodebietenpuree en snijbiet",
+    "description": "Alles met burrata is eige k al heel erg lekker, maa et [amara doet er nog ee schepje bovenop met knapperig gebakken salsiccia, verse snijbiet en een heerlijke puree van rode bietjes en een dressing van sjalot, balsamicocrme en zongedroogde tomaten. De gerookte amandelen maken het af.",
+    "ingredients": [
+        "2 salsiccia",
+        "1 sjalotje",
+        "40g gedroogde tomaten",
+        "1 balsamicocrme",
+        "250g voorgekookte rode bieten",
+        "25g gerookte amandelen",
+        "100g rode babysnijbiet",
+        "1 bol burrata",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Worst braden 2. Dressing maken",
+            "description": "Verwijder het velletje van de worstjes en snijd ze in stukjes. Verhit een middelgrote koekenpan op medium tot hoog vuur met 1el olijfolie. Braad de worst in 7-10min goudbruin en knapperig. Schep regelmatig om.  Pel en hak het sjalotje fijn. Hak de gedroogde tomaten grof en meng ze met de sjalot, balsamicocrme, 1el olijfolie en el azijn. Breng de dressing op smaak met zout en peper."
+        },
+        {
+            "title": "3. Bietjes pureren",
+            "description": "Giet de bietjes af maar vang het bietensap op. Snijd de bietjes in grove stukken en doe ze met het bietensap, 1tl olijfolie en 1tl azijn in een hoge (maat)beker. Pureer glad en voeg evt. 1-2el water toe als de puree te dik is. Breng op smaak met zout en peper."
+        },
+        {
+            "title": "4. Amandelen hakken",
+            "description": ""
+        },
+        {
+            "title": "5. Salade maken",
+            "description": "Hak de gerookte amandelen grof. Meng de snijbiet met 3/4e van de  dressing."
+        },
+        {
+            "title": "6. Afmaken & serveren",
+            "description": "Verdeel de bietenpuree over de borden en top met de salade en de salsiccia. Scheur de burrata in stukken en verdeel ze over de borden. Besprenkel met de rest van de dressing en bestrooi met de amandelen."
+        }
+    ]
+}

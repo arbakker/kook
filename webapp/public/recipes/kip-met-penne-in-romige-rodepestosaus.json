@@ -1,0 +1,44 @@
+{
+    "title": "Kip met penne in romige rodepestosaus",
+    "subtitle": "met ratatouillegroenten",
+    "description": "goeie pasta. Maar het is natuurlijk ook geen straf om en binnen een halfuur eentje op tafel te gooien. Deze allemansvriend bijvoorbeeld, met malse stukjes kip, penne en een romige saus van rode pesto en crme frache. Je verwerkt er ook courgette, paprika en ui in, dus met je dagelijkse portie groenten zit het ook wel goed.",
+    "ingredients": [
+        "250g penne",
+        "1 rode ui",
+        "2 tenen knoflook",
+        "1 courgette",
+        "1 rode paprika",
+        "1 kipfilet",
+        "1 zakje italiaanse kruidenmix",
+        "1 kuipje crme frache",
+        "1 kuipje rode pesto met olijven",
+        "peper en zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui snijden",
+            "description": "Breng genoeg zout water voor de pasta aan de kook in een middelgrote kookpan. Pel en snijd de ui in halve ringen. Pel en snijd de knoflook in plakjes."
+        },
+        {
+            "title": "2. Groenten snijden",
+            "description": "Snijd de courgette in de lengte in vieren en dan in blokjes. Verwijder de kern en snijd de paprika in reepjes."
+        },
+        {
+            "title": "3. Pasta koken",
+            "description": "Voeg de pasta toe als het water kookt en kook in 7-9min beetgaar. Giet af, doe terug in de pan en houd afgedekt warm."
+        },
+        {
+            "title": "4. Kip voorbereiden",
+            "description": "Dep de kipfilet droog en snijd 'm in stukjes. Schep ze om ze met de Italiaanse kruidenmix en 1el olijfolie."
+        },
+        {
+            "title": "5. Kip en groenten bakken",
+            "description": "Verhit een grote koekenpan op hoog vuur en braad de kip in 2-3min rondom aan. Schep op een bord en schenk 1el olijfolie in de pan. Voeg de ui, paprika en courgette toe en bak 3-4min. Voeg de knoflook toe, draai het vuur middelhoog en bak nog 2-3min tot de groenten beetgaar zijn."
+        },
+        {
+            "title": "6. Saus afmaken",
+            "description": "Doe de kip met braadsappen terug in de pan. Voeg de crme frache en de pesto toe, roer door en warm in 1-2min op. Voeg de pasta toe en proef of je nog zout en peper wil toevoegen. Serveer de pasta direct."
+        }
+    ]
+}

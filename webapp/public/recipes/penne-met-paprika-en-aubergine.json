@@ -1,0 +1,46 @@
+{
+    "title": "Penne met paprika en aubergine",
+    "subtitle": "met romige walnootsaus en basilicum",
+    "description": "van harte aan. Met een romige saus gemaakt van walnoten en op smaak gebracht met knoflook en sjalot. De verse paprika en aubergines, en de garnering van basilicum en pecannoten maken dit vegan Italiaanse gerecht helemaal af.",
+    "ingredients": [
+        "250g penne",
+        "1 rode paprika",
+        "1 aubergine",
+        "21 teen knoflook",
+        "1 sjalotje",
+        "50g walnoten",
+        "1 pakje sojaroom",
+        "1 zakje edelgistvlokken",
+        "25g pecannoten",
+        "10g verse basilicum",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten snijden",
+            "description": "Breng in een middelgrote kookpan voldoende gezouten water aan de kook voor de pasta. Snijd de paprika in vieren, verwijder de kern en snijd in blokjes van 2- 3em. Snijd de aubergine in de lengte in vieren en dan in plakken van 1-2cm. Pel de knoflook en sjalot en hak grof."
+        },
+        {
+            "title": "2. Walnootsaus voorbereiden",
+            "description": "Verhit een droge, grote koekenpan op middelhoog vuur en rooster de walnoten ca. 1-2min. Let op, ze kunnen snel verbranden. Neem uit de pan en doe ze met de sojaroom en de edelgistvlokken in een hoge (maat)beker. Verhit de koekenpan op middelhoog vuur met 1el olijfolie en fruit de knoflook en de sjalot ca. 1min en voeg ze toe aan de (maat)beker."
+        },
+        {
+            "title": "3. Groenten bakken",
+            "description": "Verhit de koekenpan op middelhoog vuur met fel olijfolie en bak de paprika en aubergine 9-11min, tot ze licht gebruind zijn. Voeg een snuf zout toe en bak nog ca. 1min. Neem de pan van het vuur. Breng de groenten op smaak met {el azijn, zout en  peper."
+        },
+        {
+            "title": "4. Pasta koken",
+            "description": "Voeg de pasta toe aan het kokende water en kook in 7-9min beetgaar. Schep ca. 200ml pastawater uit de pan, giet de pasta af in een vergiet en laat uitlekken."
+        },
+        {
+            "title": "5. Walnootsaus pureren",
+            "description": "Breng de ingredinten voor de walnootsaus op smaak met 2 flinke snuffen zout en een snuf peper. Pureer met een staafmixer tot een gladde saus. Proef of je evt. nog meer zout wilt toevoegen."
+        },
+        {
+            "title": "6. Afmaken en serveren",
+            "description": "Hak de pecannoten grof. Pluk de basilicumblaadjes en scheur ze grof. Doe de pasta terug in de pan, roer de saus met ca. 100ml pastawater erdoor en verwarm ca. min op hoog vuur. Voeg evt. meer pastawater toe. Verdeel de pasta met de groenten over borden en bestrooi met de pecannoten en de basilicum."
+        }
+    ]
+}

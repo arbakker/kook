@@ -1,0 +1,44 @@
+{
+    "title": "Aspergerisotto",
+    "subtitle": "met saffraan en venkel",
+    "description": "Risotto alla Milanese wordt in de Italiaanse volksmond ook wel Risotto Gialio genoemd - gele risotto. De gemalen saffraan, afkomstig van de krokussen, geeft dit gerecht zijn karakteristieke gele kleur en aromatische smaak. De ovengeroosterde venkel en groene asperges geven dit rijstgerecht net dat beetje tegenwicht. Daar lusten we nog wel een bord van!",
+    "ingredients": [
+        "1 ui",
+        "1 citroen",
+        "250g groene asperges",
+        "1 venkel",
+        "2 blokjes italiaanse harde kaas",
+        "1 groentebouillonblokje",
+        "200g risottorijst",
+        "1 gemalen saffraan",
+        "olijfolie",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden",
+            "description": "Oven op 225C hetelucht/250C met grill voorverwarmen. Ondertussen ui pellen, halveren en in dunne halve ringen snijden. Stronk van venkel snijden, loof plukken, venkel in 1cm brede repen snijden. Houterige uiteinden van asperges snijden en asperges goed wassen."
+        },
+        {
+            "title": "2. Bouillon maken",
+            "description": "In een waterkoker 500ml water aan de kook brengen. Bouillonblokje in het gekookte water laten oplossen. Gemalen saffraan in ca. 2t| lauwwarm water laten oplossen."
+        },
+        {
+            "title": "3. Risotto starten",
+            "description": "Ondertussen 1-2el olijfolie in een grote koekenpan op middelhoog vuur verhitten en ui in ca. 2-3min zacht fruiten. Vervolgens risottorijst en saffraanwater toevoegen en 1-2min bakken totdat de rijstkorrels glazig zijn."
+        },
+        {
+            "title": "4. Risotto maken",
+            "description": "Soeplepel bouillon aan de pan toevoegen tot de risottorijst net onderstaat. Vuur lager zetten en af en toe roerend koken totdat de bouillon is opgenomen. Proces herhalen en zo de rijst in ca. 15-20min beetgaar koken. Indien de bouillon op raakt, kun je heet water toevoegen."
+        },
+        {
+            "title": "5. Asperges roosteren",
+            "description": "Ondertussen citroenschil raspen en citroen in partjes snijden. Asperges en venkel op een bakplaat met 1el olijfolie en 1-2tl citroenrasp mengen, met zout en peper bestrooien. Groenten in 10-15min in de oven goudbruin en knapperig bakken."
+        },
+        {
+            "title": "6. Risotto afmaken",
+            "description": "Intussen Italiaanse kaas fijnraspen en door de risotto roeren, geheel op smaak brengen met peper en zout. Risotto met de geroosterde groenten en citroenpartjes serveren, garneer met venkelloof."
+        }
+    ]
+}

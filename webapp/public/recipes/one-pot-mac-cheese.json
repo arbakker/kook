@@ -1,0 +1,46 @@
+{
+    "title": "One-pot Mac & Cheese",
+    "subtitle": "met bull's blood-komkommersla",
+    "description": "De guilty pleasure van Kyra is de Amerikaanse mac & cheese, maar zij maakt die het allerliefst op basis van Nederlandse kazen. Je maakt deze kom vol cheesy comfort food easy en bliksemsnel in n enkele pan. Met een simpele salade ernaast, verrijkt met een wel heel bijzondere slasoort: bull's blood. Dat is het purperrode blad van de bull's blood- biet. Bloody lekker!",
+    "ingredients": [
+        "1 babyspinazie",
+        "5g verse tijm",
+        "1 zakje panko",
+        "500ml melk",
+        "1 teen knoflook",
+        "2 mini-komkommers",
+        "1 zakje gedroogde tomaten",
+        "250g maccheroni",
+        "1 geraspte kaasmix",
+        "1 bull's blood sla",
+        "boter",
+        ". peper en zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Tomaten hakken",
+            "description": "Breng 500ml water voor de pasta in een waterkoker aan de kook. Hak intussen de gedroogde tomaten grof."
+        },
+        {
+            "title": "2. Pasta koken",
+            "description": "Verhit 1-2el boter in een middelgrote kookpan op middelhoog vuur. Voeg de helft van de melk, 500ml zojuist gekookt water en de maccheroni met een snuf zout toe en breng aan de kook. Roer door om aankoeken te voorkomen. Zet het vuur middellaag zodra de melk aan de kook komt en kook de pasta al af en toe roerend in 9- 11min beetgaar."
+        },
+        {
+            "title": "3. Ingredienten voorbereiden",
+            "description": "Halveer ondertussen de mini-komkommers in de lengte en snijd in plakjes. Doe de komkommer met de bull's blood sla in een kom. Pel de knoflook en hak of rasp fijn. Pluk de tijmblaadjes, hak ze eventueel grof en doe de steeltjes weg."
+        },
+        {
+            "title": "4. Broodkruimtopping maken",
+            "description": "Verhit 1el olijfolie in een middelgrote koekenpan op middelhoog vuur. Voeg de knoflook toe, bak 15-30sec en voeg dan de panko toe. Bak 2-3min al af en toe roerend op middellaag-middelhoog vuur totdat het kruim goudbruin is. Roer de tijmblaadjes erdoor en breng op smaak met peper en zout. Neem het kruim uit de pan en zet opzij."
+        },
+        {
+            "title": "5. Pastasaus maken",
+            "description": "Voeg de geraspte kaasmix handje voor handje aan de pan met pasta toe, roer door. Voeg de gehakte tomaten en evt. extra water toe totdat de saus de gewenste dikte heeft. Roer dan handje voor handje de babyspinazie door de pasta totdat de spinazie is geslonken. Breng op smaak met flink wat peper en evt. een snuf zout."
+        },
+        {
+            "title": "6. Salade afmaken",
+            "description": "Hussel vlak voor het serveren de salade om met Lucy's dressing en breng evt. op smaak met peper en zout. Schep de pasta op, bestrooi met het kruim en serveer de salade ernaast."
+        }
+    ]
+}

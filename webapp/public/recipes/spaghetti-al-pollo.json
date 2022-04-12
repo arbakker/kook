@@ -1,0 +1,46 @@
+{
+    "title": "Spaghetti al pollo",
+    "subtitle": "in romige saus met courgette en wortel",
+    "description": "VV OUTE Vd OUIGE TC. Tc ‚ UE dd Tc , , UE u ESI 1 dd Lid maakt 'm juist zo veelzijdig! Koken, bakken, grillen, in plakjes, geraspt of in linten door een salade; je kunt er werkelijk alle kanten mee op. Vandaag mengen we 'm geraspt door een heerlijk romige pastasaus voor een extra portie groenten.",
+    "ingredients": [
+        "250g spaghetti",
+        "1ui",
+        "1 teen knoflook",
+        "10g verse peterselie",
+        "1 kipfilet",
+        "1 zakje ras el hanout",
+        "1 zakje groentebouillonpoeder",
+        "1 blokje harde kaas",
+        "1 courgette",
+        "1 wortel",
+        "1 kuipje crme frache",
+        "peper en zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui snijden",
+            "description": "Breng genoeg gezouten water voor de pasta aan de kook in een middelgrote kookpan. Pel en hak de ui en knoflook fijn. Hak de peterselie incl. steeltjes ook fijn.  jk,"
+        },
+        {
+            "title": "2. Kip braden",
+            "description": "Dep de kipfilet droog en snijd 'm in blokjes. Hussel om met de ras el hanout en 1el olijfolie. Verhit een grote koekenpan of wok op middelhoog vuur en braad de kipstukjes in 2-3min rondom aan. Voeg de ui en knoflook toe en bak 2-3min mee."
+        },
+        {
+            "title": "3. Saus opzetten",
+            "description": "Schenk 200-250ml water in de pan en roer de helft van het bouillonpoeder erdoor. Breng aan de kook en laat de saus 8-10min zachtjes pruttelen. Rasp ondertussen de kaas fijn."
+        },
+        {
+            "title": "4. Pasta koken",
+            "description": "Voeg de pasta toe aan het kokende water en kook in 7-9min beetgaar. Schep een kopje kookwater uit de pan en giet de  pasta af in een zeef of vergiet. Laat uitlekken."
+        },
+        {
+            "title": "5. Groenten raspen",
+            "description": "Rasp de courgette en wortel grof. Verhit de gebruikte kookpan op middelhoog vuur met 1el olijfolie en bak de courgette en wortel 2-3min."
+        },
+        {
+            "title": "6. Pasta afmaken",
+            "description": "Voeg de crme frache en de peterselie toe aan de saus in de koekenpan en proef of je nog zout en peper wil toevoegen. Voeg de saus met de pasta toe aan de kookpan met groenten en meng goed. Voeg wat kookwater toe om de saus te binden en serveer."
+        }
+    ]
+}

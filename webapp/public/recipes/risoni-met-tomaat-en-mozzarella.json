@@ -1,0 +1,46 @@
+{
+    "title": "Risoni met tomaat en mozzarella",
+    "subtitle": "met spinazie en amandelschaafsel ",
+    "description": "KrSOrr ES LOCHT WEI HEL DESLE Vall WEE WEIGIUEN. Pdstd EIJ MIGE CI ENIS WE combineren. Vandaag vormen cherrytomaten en spinazie de basis, en de citroen en f basilicum maken het geheel bijzonder aromatisch. Als finishing touch bestrooi je alles met geroosterd amandelschaafsel. Simpel, maar effectief.",
+    "ingredients": [
+        "200g risoni",
+        "25g amandelschaafsel",
+        "1ui",
+        "250g cherrytomaten",
+        "1 citroen",
+        "1 zakje groentebouillonpoeder",
+        "1 zakje goulashkruiden",
+        "1 blokje harde kaas",
+        "10g verse basilicum",
+        "100g babyspinazie",
+        "1 bol mozzarella",
+        "peper en zout",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Amandel roosteren",
+            "description": "Breng in een waterkoker 600ml water aan de kook voor de pasta. Verhit een droge, grote koekenpan op middelhoog vuur en rooster het amandelschaafsel in 1-2min goudbruin. Let op, ze kunnen snel verbranden. Schep uit de pan en zet opzij."
+        },
+        {
+            "title": "2. Ingredinten voorbereiden",
+            "description": "Halveer en pel de ui en hak fijn. Snijd de cherrytomaten doormidden. Pers de citroen uit."
+        },
+        {
+            "title": "3. Groenten bakken",
+            "description": "Verhit de koekenpan op middelhoog vuur met 1el olijfolie. Bak de ui en de cherrytomaten met een snuf zout 4-5min, tot de tomaten openbarsten."
+        },
+        {
+            "title": "4. Pasta koken",
+            "description": "Voeg de pasta, de helft van het bouillonpoeder, de goulashkruiden en het hete water toe aan de pan en roer door. Kook op laag vuur in ca. 10min beetgaar."
+        },
+        {
+            "title": "5. Risoni afmaken",
+            "description": "Rasp de harde kaas fijn. Hak de basilicum incl. steeltjes fijn, houd een paar blaadjes apart voor de garnering. Voeg de kaas, de spinazie, de gehakte basilicum en 1el citroensap toe zodra de pasta gaar is. Proef en breng de risoni op smaak met meer citroensap naar wens en zout en peper."
+        },
+        {
+            "title": "6. Serveren",
+            "description": "Hak de rest van de basilcumblaadjes fijn. Scheur de mozzarella in hapklare stukken. Verdeel de risoni over borden en verdeel de mozzarella erover. Bestrooi met de amandel en de basilicum."
+        }
+    ]
+}

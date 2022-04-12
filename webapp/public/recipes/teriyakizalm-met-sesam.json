@@ -1,0 +1,43 @@
+{
+    "title": "Teriyakizalm met sesam",
+    "subtitle": "op glasnoedels en kleurrijke groenten",
+    "description": "Vandaag maken we een favoriet uit de Japanse keuken: heerlijk malse en inte smaakvolle teriyakizalm. Het ziet er heel professioneel uit, maar is verrassend eenvoudig en snel te bereiden. We serveren het met glasnoedels en kleurrijke groenten en maken het af met geroosterde sesam. Eet smakelijk!",
+    "ingredients": [
+        "100g glasnoedels",
+        "1 stukje verse gember",
+        "1 teen knoflook",
+        "5oml teriyakisaus",
+        "10g witte sesam",
+        "2 zalmfilets, ontdooid",
+        "400g chinese roerbakgroenten",
+        "peper en zout",
+        "plantaardige olie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Saus maken",
+            "description": "Breng 11 water voor de noedels aan de kook in een waterkoker (of kookpan). Schil en snijd de gember fijn. Pel en snijd de knoflook fijn. Meng de gember en knoflook met de teriyakisaus, 1el plantaardige olie, lel witte azijn en een snuf peper en zout."
+        },
+        {
+            "title": "2. Sesam roo",
+            "description": "Verhit een droge grote koekenpan op middelhoog vuur. Rooster de sesam 1-2min. Pas op: Het kan snel aanbranden. Haal de sesam uit de pan en zet opzij."
+        },
+        {
+            "title": "3. Noedels garen",
+            "description": "Giet het hete water over de noedels in een kom en laat 3-5min trekken. Spoel de noedels in een zeef af met koud water en laat uitlekken."
+        },
+        {
+            "title": "4. Vis bakken",
+            "description": "Spoel de vis af met koud water, dep droog met keukenpapier en controleer de vis op graten (gebruik hier evt. een pincet voor). Kruid met een snuf peper en zout. Verhit de gebruikte koekenpan met 1el plantaardige olie op middelhoog vuur. Bak de vis 3-4min op de huid. Draai de hem om en bedruppel met 1-2el saus. Zet het vuur laag en laat de vis nog 2-3min garen."
+        },
+        {
+            "title": "5. Groenten bakken",
+            "description": "Verhit een tweede grote pan met 1el plantaardige olie. Bak de groenten 2-3min op hoog vuur. Tip: als je de groenten liever wat zachter hebt, kun je ze ook langer bakken. Voeg de rest van de saus en de noedels toe aan de pan met groenten. Meng goed door en laat nog 1min bakken."
+        },
+        {
+            "title": "6. Afmaken en serveren",
+            "description": "Serveer de vis op de noedels en de groenten en garneer het geheel met de sesam."
+        }
+    ]
+}

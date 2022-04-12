@@ -1,0 +1,46 @@
+{
+    "title": "Gebakken kipfilet met krokante topping",
+    "subtitle": "op orecchiette met romige tomaten-venkelsaus",
+    "description": "vaar d ecep ebben wij wel oren, wa we servere alse kiptile et de lekke C tomaten-venkelsaus en orecchiette, oftewel ‘kleine oortjes! in het Italiaans. De mooie vorm van de pasta vangt de heerlijke saus bijzonder goed op.",
+    "ingredients": [
+        "250g orecchiette",
+        "1 teen knoflook",
+        "2 tomaten",
+        "1 venkel",
+        "1 kipfilet",
+        "1 blikje tomatenpuree",
+        "25g panko",
+        "1 beker slagroom",
+        "e+ 20ml vissaus",
+        "boter",
+        "peper en zout",
+        "suiker",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten snijden",
+            "description": "Breng ruim gezouten water voor de pasta aan de kook in een middelgrote kookpan. Pel en hak de knoflook fijn. Snijd de tomaten elk in 6 parten. Snijd het venkelgroen grof. Verwijder de harde onderkant en snijd de venkel in parten van ca. 1cm breed."
+        },
+        {
+            "title": "2. Pasta koken",
+            "description": "Voeg de pasta toe aan het kokende water en kook in 9-11min beetgaar. Roer af en toe door, vooral in het begin, zodat de pasta niet aan elkaar plakt. Giet af en laat uitlekken."
+        },
+        {
+            "title": "3. Vlees bakken",
+            "description": "Dep het vlees.droog met keukenpapier en snijd in 2 platte filets. Verhit een middelgrote koekenpan op hoog vuur met 1-2el olijfolie. Bak het vlees met 1/2tl zout ca. min per kant goudbruin. Haal het vlees uit de pan en zet opzij."
+        },
+        {
+            "title": "4. Saus koken",
+            "description": "Voeg de knoflook, de tomaten, de venkel, de helft van de tomatenpuree, {tl suiker en een snuf peper en zout toe aan de gebruikte pan en bak ca. 2min op hoog vuur. Blus af met 75ml water. Leg het vlees op de groenten en bak afgedekt 5-7min op middelhoog vuur. Proef en voeg evt. meer peper en zout toe."
+        },
+        {
+            "title": "5. Topping maken",
+            "description": "Verhit een kleine koekenpan op middelhoog vuur met Tel boter. Bak de panko met een kleine snuf zout 2-3min, tot het goudbruin is."
+        },
+        {
+            "title": "6. Afmaken en serveren",
+            "description": "Haal het vlees uit de pan en snijd het in repen. Roer de pasta, 75ml slagroom en de helft van de vissaus (of meer naar smaak) door de groenten en verwarm ca. 1min op middelhoog vuur. Verdeel de pasta en groenten over borden en leg het vlees erop. Bestrooi met de panko en het venkelgroen."
+        }
+    ]
+}

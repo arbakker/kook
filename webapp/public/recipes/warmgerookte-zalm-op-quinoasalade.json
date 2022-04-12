@@ -1,0 +1,46 @@
+{
+    "title": "Warmgerookte zalm op quinoasalade",
+    "subtitle": "met venkel, rozijnen en yoghurt",
+    "description": "Warmgerookte zalm heeft zo'n rijke smaak dat er eigenlijk niet zoveel bij nodig is. We kozen daarom voor ingredinten die mooi samengaan met de smaak van zalm. Venkel en citroen zijn natuurlijk een no-brainer, maar we sturen je ook rozijnen en yoghurt en combineren het geheel met notige quinoa.",
+    "ingredients": [
+        "150g quinoa",
+        "1 courgette —",
+        "1venkel",
+        "20g verse kruidenmix: dille &",
+        "platte peterselie",
+        "1 citroen",
+        "1 bosui",
+        "1 kuipje yoghurt",
+        "1 warmgerookte zalm",
+        "1 zakje rozijnen",
+        "peper en zout",
+        "suiker",
+        "olijfolie d"
+    ],
+    "steps": [
+        {
+            "title": "1. Quinoa koken",
+            "description": "Breng 350ml licht gezouten water aan de kook in een kleine kookpan. Spoel de quinoa goed af in een zeef. Voeg toe aan het kokende water, leg een deksel op de pan en zet het vuur laag. Kook de quinoa in 10-12min beetgaar. Neem de pan van het vuur en laat afgedekt rusten."
+        },
+        {
+            "title": "2. Groenten snijden",
+            "description": "Snijd de courgette in dunne plakken. Snijd de venkel in de lengte doormidden en dan in zo dun mogelijke reepjes. Verwijder de kern. Houd het venkelloof apart voor de garnering. Bestrooi de venkel met 1/2-1tI zout en kneed stevig."
+        },
+        {
+            "title": "3. Courgette grillen",
+            "description": "Hussel de courgette om met 1el olijfolie. Verhit een grillpan (of normale koekenpan) op hoog vuur en grill de courgette 1-2min per kant. Haal uit de pan en bestrooi met zout en peper. Grill de courgette in delen, zodat de plakken de ruimte krijgen om mooi te bruinen."
+        },
+        {
+            "title": "4. Kruiden hakken",
+            "description": "Hak de peterselie en dille incl. steeltjes fijn. Rasp de citroenschil fijn en pers de citroen uit. Snijd de bosui in dunne ringen. Zet 1el bosui en 1tl citroenrasp opzij voor de garnering."
+        },
+        {
+            "title": "5. Salade afmaken",
+            "description": "Meng de quinoa met de courgette, de venkel, de verse kruiden en de rest van de bosui. Breng de salade op smaak met de rest van de citroenrasp, het citroensap, 2el olijfolie en peper en zout naar smaak. Roer de yoghurt los met een snufje zout."
+        },
+        {
+            "title": "6. Zalm verdelen",
+            "description": "Verwijder de huid van de zalm en scheur de vis in hapklare stukjes (verwijder evt. graatjes). Serveer de quinoasalade met de zalm bovenop en bestrooi met de rozijnen, de rest van de bosui en citroenrasp en het venkelloof en bedruppel met de yoghurt."
+        }
+    ]
+}

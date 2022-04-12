@@ -1,0 +1,46 @@
+{
+    "title": "Bolognese met spinazie en penne",
+    "subtitle": "met verse oregano en geraspte kaas",
+    "description": "ledereen kent de klassieke bolognesesaus, maar dat maakt m natuurlijk niet minder lekker. Je serveert vandaag een variant met een kleine twist. Vlak voor het serveren voeg je namelijk een lekkere portie spinazie toe voor extra smaak en groenten. En je brengt de pasta ook nog op smaak met verse oregano. Geniet!",
+    "ingredients": [
+        "250g penne",
+        "1ui",
+        "1 teen knoflook",
+        "1 rundergehakt",
+        "1 blikje tomatenpuree",
+        "1 blik tomatenblokjes",
+        "25ml sojasaus 1,",
+        "1 blokje harde kaas",
+        "5g verse oregano",
+        "100g babyspinazie",
+        "peper en zout",
+        "suiker",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui snijden",
+            "description": "Breng genoeg gezouten water voor de pasta aan de kook in een middelgrote kookpan. Pel en hak de ui en knoflook fijn."
+        },
+        {
+            "title": "2. Pasta koken",
+            "description": "Voeg de pasta toe zodra het water kookt en kook in 7-9min beetgaar. Schep een kopje kookwater uit de pan, giet de pasta af en doe weer terug in de pan. Houd afgedekt warm."
+        },
+        {
+            "title": "3. Gehakt Ml Bekken",
+            "description": "Verhit een grote koekenpan op hoog vuur met 1el olijfolie. Braad het gehakt in 3-5min bruin en rul en bestrooi het met zout en  peper."
+        },
+        {
+            "title": "4. Saus maken",
+            "description": "Voeg de ui en knoflook toe aan het gehakt en bak 1-2min mee. Roer de tomatenpuree erdoor en voeg de tomatenblokjes toe. Draai het vuur laag en laat de saus ca. 10min zachtjes sudderen. Voeg wat kookwater toe als de saus te veel indikt en breng op smaak met sojasaus en peper."
+        },
+        {
+            "title": "5. Kaas raspen",
+            "description": "Rasp de kaas fijn. Pluk de oreganoblaadjes en hak ze fijn."
+        },
+        {
+            "title": "6. Saus afmaken",
+            "description": "Roer de oregano door de saus en proef of je nog zout peper, of een snuf suiker wil toevoegen. Voeg de spinazie toe en laat al roerende slinken. Serveer de pasta met de saus en bestrooi met de kaas."
+        }
+    ]
+}

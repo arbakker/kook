@@ -1,0 +1,48 @@
+{
+    "title": "Wrap met frijoles fritos,",
+    "subtitle": "gebakken paprika en zure room",
+    "description": "Met zo'n naam kan het niet anders dan dat deze zwarte bonen uit Mexico komen! Frijoles fritos, in het Engels ‘refried beans’ en in minder mooi Nederlands ‘gebakken bonenpuree,' is een dip die doorgaans wordt geserveerd met kaas, zure room en tortillachips. Als beleg van onze fantastische wraps doet ze het echter ook prima. Vul met zoet-zure paprikarelish, frisse Granny Smith-appel en zure room en jouw Tex-Mex bite is klaar.",
+    "ingredients": [
+        "1 beker zure room",
+        "1 rode paprika",
+        "1 gele paprika",
+        "20g verse koriander",
+        "1 limoen",
+        "1 rode ui",
+        "1 granny smith appel",
+        "1 blik zwarte bonen",
+        "ixtarwetortilla's",
+        "5g chili con carne-kruidenmix",
+        "5g paprikapoeder",
+        "suiker",
+        "azijn",
+        "olijfolie",
+        "peper en zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten voorbereiden",
+            "description": "Verwarm de oven voor op 180C hetelucht/200C. Halveer, pel en hak de ui fijn. Halveer de paprika's, verwijder zaden en zaadlijsten en snijd in 0,5-1cm brede repen. Spoel de zwarte bonen in een vergiet of zeef onder de kraan schoon en laat uitlekken."
+        },
+        {
+            "title": "2. Kruiden snijden",
+            "description": "Pluk de korianderblaadjes, hak de steeltjes fijn en houd van elkaar gescheiden. Trek voorzichtig de tortilla's van elkaar los en pak ze goed in aluminiumfolie in. Plaats'ca. 5min in de oven, zet de oven dan uit en laat de tortilla's ingepakt tot het beleggen erin zodat ze niet uitdrogen."
+        },
+        {
+            "title": "3. Frijoles refritos maken",
+            "description": "Verhit fel olie in een grote koekenpan. Bak de ui met de koriandersteeltjes 1min. Voeg de bonen en helft van de chili con carne- kruidenmix toe. Bak 5-6min op middelhoog vuur en prak de bonen grof. Voeg evt. een scheutje water toe en breng de bonenpuree op smaak met zout, peper en meer kruidenmix. Houd warm tot aan het  serveren."
+        },
+        {
+            "title": "4. Paprikarelish maken",
+            "description": "Verhit 1el olijfolie in een tweede grote koekenpan op middelhoog vuur. Voeg de paprikarepen toe en bak 5-6min tot ze iets zachter zijn. Meng intussen in een kommetje 1el azijn met 1el suiker en roer tot de suiker is opgelost. Voeg dit aan de paprika's toe en warm nog 1min door. Breng op smaak met zout."
+        },
+        {
+            "title": "5. Saus en dressing maken",
+            "description": "Roer het paprikapoeder met een snuf zout door de zure room. Doe de korianderblaadjes, 1-2el olijfolie, 2el water in een hoge kom of maatbeker. Rasp de limoenschil erboven fijn en pers de limoen erboven uit. Blend met een staafmixer tot een gladde dressing. Breng op smaak met peper en zout."
+        },
+        {
+            "title": "6. Appel snijden",
+            "description": "Snijd de Granny Smith appel in dunne lucifers, of rasp grof. Beleg de tortilla's met bonenpuree, paprika, zure room, appel en de limoendressing en rol op.  /"
+        }
+    ]
+}

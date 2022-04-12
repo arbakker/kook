@@ -35,15 +35,24 @@ def ocr_image_front(image):
     return re.sub(r'[\u201c-\u201d]', "\"", string_result)
 
 def ocr_image(image):
+    basename = Path(image).stem
+    proj_root = get_project_root()
+    image_dir = os.path.dirname(image)
+    uzn_path = f"{image_dir}/{basename}.uzn"
+    shutil.copy(f"{proj_root}/kook/uzn-template-back", uzn_path)
+    print(f"{proj_root}/kook/uzn-template-back", uzn_path)
     result = subprocess.run([
         'tesseract',
         '-l',
-        'nld',
+        'nld+fra',
+        '--psm',
+        '4',
         image,
         'stdout',
         '-c',
         'debug_file=/dev/null'
     ], stdout=subprocess.PIPE)
+    # os.remove(uzn_path)
     string_result=result.stdout.decode('utf-8')
     string_result = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\xff]', '', string_result)
     return re.sub(r'[\u201c-\u201d]', "\"", string_result)
@@ -72,9 +81,9 @@ def get_titles(text):
 
 def get_between_lines(text, start, end):
     f = text.split("\n")
-    it = itertools.dropwhile(lambda line: line.strip() != start, f)
+    it = itertools.dropwhile(lambda line:  (not re.search(start, line.strip().lower(), re.IGNORECASE)), f)
     it = itertools.islice(it, 1, None)
-    it = itertools.takewhile(lambda line: line.strip() != end, it)
+    it = itertools.takewhile(lambda line:  (not re.search(end, line.strip().lower(), re.IGNORECASE)), it)
     return '\n'.join(it)
 
 def regex_sub_until(text, pattern):
@@ -90,7 +99,7 @@ def get_ingredients(text):
     for line in text.split("\n"):
         line=line.strip()
         line = regex_sub_until(line, r"^(‚|,|-|_|\*|…|\+)").strip() # note: comma in regex is U+201a
-        line = regex_sub_until(line, r'(?:[0-9]+|!|\?|\u2019|\||\:)$').strip()
+        line = regex_sub_until(line, r'(?:[0-9]+|!|\?|\u2019|\||\:|\\)$').strip()
         line = re.sub(r'^\s*Tui\s*$', "1 ui", line).strip()
         line = re.sub(r'^\s?([0-9]+)9', r'\1g', line).strip() # assuming no ingredients en
         line = re.sub(r'(?i)^([0-9]+)x\s?', r'\1 ', line).strip()
@@ -115,7 +124,7 @@ def replfunc(m):
      return m.groups()[0]+m.groups()[1].upper()+m.groups()[2]
 
 def get_recipe_steps(text):
-    pattern = r"^[0-9](?:\.|,)\s.*$"
+    pattern = r"^_?[0-9](?:\.|,)\s?.*$"
     steps_start_line_nr=get_line_nr_first_match(text, pattern)
     steps = []    
     for i, line_nr in enumerate(steps_start_line_nr):
@@ -127,8 +136,10 @@ def get_recipe_steps(text):
             end_line_nr=steps_start_line_nr[i+1]
             step_result = text.split("\n")[line_nr:end_line_nr]
         step_title = " ".join(step_result[:1]).strip()
-        step_title = re.sub('^([0-9]),(.*)', r'\1.\2', step_title)
+        step_title = re.sub('^_?([0-9]),(.*)', r'\1. \2', step_title)
         step_title = re.sub('^([0-9]\.\s?)([a-z])(.*)',replfunc,step_title)
+
+
         step_description = " ".join(step_result[1:]).strip()
         
         step_description = re.split(r'Je kunt je in je online account', step_description, maxsplit=1)[0].strip()
@@ -144,8 +155,8 @@ def get_recipe_steps(text):
     return steps
 
 def get_all_ingredients(text):
-    ingredients_text=get_between_lines(text, "Wat je van ons krijgt", "Wat je thuis nodig hebt")
-    ingredients_home_text=get_between_lines(text, "Wat je thuis nodig hebt","Kookgerei")
+    ingredients_text=get_between_lines(text, r'^wat je van ons krijgt', r'^wat (?:je|j\sje!) (?:thuis|huls) nodig hebt')
+    ingredients_home_text=get_between_lines(text, r'^wat (?:je|j\sje!) (?:thuis|huls) nodig hebt', r'kookgerei')
     ingredients=get_ingredients(ingredients_text)
     ingredients_home=get_ingredients(ingredients_home_text)
     ingredients = ingredients + ingredients_home

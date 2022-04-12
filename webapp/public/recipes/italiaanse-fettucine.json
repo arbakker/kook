@@ -1,0 +1,48 @@
+{
+    "title": "Italiaanse fettucine |",
+    "subtitle": "met veggie bolognesesaus",
+    "description": "Rag alla bolognese. Jawel, de inwoners van Bologna zijn zo trots als een pauw op deze saus. En terecht ook, bij het bereiden van de klassieke variant met rundvlees, wijn, bouillon en tomatenpuree vormen de smaken een mooi geheel. Onze veggie variant met volkoren fettucini en bomvol aromatische groenten doet er zeker niet voor onder. Smullen maar! a",
+    "ingredients": [
+        "250g volkoren fettuccine",
+        "20g italiaanse harde kaas",
+        "12ml balsamicoazijn",
+        "1 bleekselderij",
+        "{ui",
+        "1 teen knoflook",
+        "1 blik gehakte tomaten",
+        "1 wortel",
+        "1 witte champignons",
+        "20g verse basilicum",
+        "5g italiaanse kruidenmix",
+        "50g gedrogde tomaten",
+        "olijfolie e",
+        "zwarte peper",
+        "zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden",
+            "description": "Oven op 200C hetelucht/220C voorverwarmen. Grote kookpan met ruim gezouten water voor de pasta aan de kook brengen. Ondertussen ui en knoflook pellen en beiden fijnhakken. Gedroogde tomaten fijnhakken. Zodra het water kookt, gedroogde tomaat in een kop opgevangen pastawater ca. 3-5min laten wellen."
+        },
+        {
+            "title": "2. Tomatensaus maken",
+            "description": "Middelgrote kookpan met 1/2el olijfolie op middelhoog vuur verhitten, ui toevoegen en in ca. 3-5min glazig bakken. Dan knoflook en Italiaanse kruidenmix toevoegen, ca. 1min meebakken. Tomaten uit blik en gewelde tomaten toevoegen, geheel aan de kook brengen en tot stap 6 zachtjes laten sudderen. Indien nodig water toevoegen."
+        },
+        {
+            "title": "3. Groenten voorbereiden",
+            "description": "Ondertussen wortel schillen en in kleine stukjes snijden. Champignons schoonboenen en in vieren snijden. Bleekselderij in de lengte doormidden snijden en ook in kleine stukjes snijden."
+        },
+        {
+            "title": "4. Groenten roosteren",
+            "description": "Groenten uit stap 3 over een bakplaat verdelen en met 1-2el olijfolie, peper en zout mengen. Bakplaat in de oven schuiven en ca. 15min in de oven bakken tot de champignons bruin kleuren."
+        },
+        {
+            "title": "5. Kaas raspen",
+            "description": "Zodra het water kookt, pasta aan de pan toevoegen en in ca. 10min beetgaar koken. Afgieten, terug in de pan doen met 1-2el olie en voorzichtig omscheppen zodat de pasta niet gaat kleven. Kaas fijnraspen en basilicumblaadjes plukken, paar blaadjes ter garnering achterhouden. Steeltjes wegdoen en overige basilicumblaadjes fijnhakken."
+        },
+        {
+            "title": "6. Veggie bolognese afmaken",
+            "description": "Geroosterde groenten, gehakte basilicum en balsamicoazijn door de tomatensaus roeren. Saus op smaak brengen met peper en zout. Pasta over borden verdelen, saus erover opscheppen en met kaas bestrooien en basilicumblaadjes garneren."
+        }
+    ]
+}

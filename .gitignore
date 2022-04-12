@@ -4,3 +4,7 @@ __pycache__/
 **/.env
 test-data/
 node_modules/
+*.jpg
+*.png
+*.bak
+**/scans*/

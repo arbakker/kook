@@ -1,0 +1,47 @@
+{
+    "title": "Marokkaanse kip op bulgursalade",
+    "subtitle": "met abrikozen, botersla en yoghurtdip",
+    "description": "Wist je dat de Marokkaanse smaa er ras el hanout uit maar liefst twintig verschillende specerijen bestaat? Elke kruidenier in Marokko maakt zijn eigen variant, dus de samenstelling van de mix is overal een beetje anders. Maar de geur van kardemom, kaneel en kruidnagel brengt je steevast in Marokkaanse sferen. Gecombineerd met boterzachte kip en een lekkere bulgursalade kan je avond niet meer stuk.",
+    "ingredients": [
+        "150g bulgur *",
+        "1 kuipje yoghurt",
+        "1 zakje harissa",
+        "1 kipfilet",
+        "1 zakje ras el hanout",
+        "1 wortel",
+        "50g amandelschaafsel",
+        "1 zakje komijnpoeder",
+        "50g gedroogde abrikozen",
+        "1 krop botersla",
+        "1 bosui",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Yoghurtdip maken",
+            "description": "Verwarm de oven voor op 240C (220C hetelucht). Breng 300ml licht gezouten water voor de bulgur aan de kook in een kleine kookpan. Meng de yoghurt met 1/4e van de harissakruiden (of meer naar smaak) en een flinke snuf zout en peper. Bewaar in de koelkast."
+        },
+        {
+            "title": "2. Kip marineren",
+            "description": "Dep de kipfilet droog, leg 'm in een ovenschaal en wrijf in met 1el olijfolie, de helft van de ras el hanout en een flinke snuf  zout en peper.       md"
+        },
+        {
+            "title": "3. Wortel roosteren",
+            "description": "Schil of schrob de wortel, snijd 'm in dunne plakjes en verdeel ze over een 2e ovenschaal. Hussel om met 1el olijfolie, de rest van de ras el hanout en een snuf zout en peper. Rooster de kip en de wortel 12- 15min in de oven, tot de kip goudbruin en gaar is. Rooster het amandelschaafsel in de laatste 2-3min mee naast de wortel."
+        },
+        {
+            "title": "4. Bulgur koken",
+            "description": "Voeg de bulgur en het komijnpoeder toe aan het kokende water, draai het vuur laag en doe een deksel op de pan. Kook 4-5min, voeg de abrikozen toe en kook het geheel nog 4-5min, tot al het water is opgenomen. Neem de pan van het vuur en laat de bulgur afgedekt rusten."
+        },
+        {
+            "title": "5. Salade maken",
+            "description": "Snijd de sla in hapklare stukjes. Snijd de bosui in dunne ringen. Roer de bulgur los met een vork en meng met het amandelschaafsel, de sla, de helft van de bosui, 1el olijfolie, 1el (wittewijn)azijn en een flinke snuf zout en peper."
+        },
+        {
+            "title": "6. Kip snijden",
+            "description": "Snijd de kip in plakken. Schep de bulgursalade op en verdeel er de wortel en de kip over. Bestrooi met de rest van de bosui en serveer de yoghurtdip erbij."
+        }
+    ]
+}

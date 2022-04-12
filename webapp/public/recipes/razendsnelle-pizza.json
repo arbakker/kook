@@ -1,0 +1,48 @@
+{
+    "title": "Razendsnelle pizza",
+    "subtitle": "met Aziatische groenten en kruidensalsa",
+    "description": "Een pizza kun je met van alles beleggen en daarom besloot onze chef Martina dat het tijd was om buiten de Italiaanse banen te treden en een Aziatische variant te maken. Ze gaat voor een basis van een zelfgemaakte hoisin-tomatensaus met daarop Chinese kool, taug en Thaise basilicum. Deze basilicum is afkomstig uit Zuidoost-Azi en heeft een anijsachtige smaak, een ideale toevoeging dus aan de salsa voor op de pizza.",
+    "ingredients": [
+        "1 tomaat",
+        "1 teen knoflook",
+        "50ml hoisinsaus 1,",
+        "1 rol pizzadeeg",
+        "100g geraspte jong belegen",
+        "kaas",
+        "400g chinese roerbakgroenten",
+        "10g verse kruidenmix",
+        "koriander & thaise basilicum",
+        "1 limoen",
+        "25g gezouten pinda's",
+        "1 bosui",
+        "peper en zout",
+        "suiker",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Saus maken",
+            "description": "Verwarm de oven voor op 240C (220C hetelucht). Snijd de tomaat grof. Pel en halveer de knoflook. Doe de tomaat met 1 knoflookhelft, de hoisinsaus en een snuf zout in een hoge (maat)beker. Pureer met een staafmixer tot een gladde saus."
+        },
+        {
+            "title": "2. Deeg voorbereiden",
+            "description": "Rol het pizzadeeg met aanklevend bakpapier over een bakplaat uit. Besmeer het deeg met de saus, maar houd daarbij de rand vrij."
+        },
+        {
+            "title": "3. Pizza bakken",
+            "description": "Verdeel eerst de kaas en dan de groentemix over het deeg. Bak de pizza in 15-20min goudbruin en gaar."
+        },
+        {
+            "title": "4. Salsa voorbereiden",
+            "description": "Pluk de Thaise basilicumblaadjes en doe de steeltjes weg. Hak de basilicum en de koriander incl. steeltjes grof. Halveer de limoen, pers een helft uit en snijd de andere helft in partjes."
+        },
+        {
+            "title": "5. Salsa pureren",
+            "description": "Hak de pinda's grof en doe ze samen met de verse kruiden, de rest van de knoflook, het limoensap, 1el olijfolie, 1el water, 1/2tl suiker en een snuf zout en peper in een  hoge (maat)beker. Pureer met een staafmixer tot een salsa. Proef en breng evt. op smaak met wat meer zout en peper."
+        },
+        {
+            "title": "6. Bosui snijden",
+            "description": "Snijd de bosui schuin in dunne ringen. Besprenkel de pizza naar wens met de kruidensalsa en de bosui. Snijd de pizza in stukken en serveer de limoenpartjes erbij."
+        }
+    ]
+}

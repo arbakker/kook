@@ -1,0 +1,45 @@
+{
+    "title": "Biefstuk met za'atar en feta",
+    "subtitle": "met gebakken groenten en dille",
+    "description": "smaak dankzij de za'atar, feta, knoflook-yoghurtdip, chilipeper en verse dille. Zorg ervoor dat je de bavette ruim van tevoren uit de koelkast haalt, zodat het vlees mooi op kamertemperatuur is wanneer je de keuken in duikt.",
+    "ingredients": [
+        "1 bavette",
+        "1 courgette",
+        "1 rode paprika",
+        "1 verse chilipeper",
+        "1 zakje za'atar",
+        "1 teen knoflook",
+        "1 kuipje yoghurt",
+        "10g verse dille",
+        "5og feta",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten snijden",
+            "description": "Laat het vlees op kamertemperatuur komen. Snijd de courgette in de lengte doormidden en dan in plakjes. Verwijder de kern en snijd de paprika in dunne reepjes. Snijd de chilipeper in de lengte doormidden en verwijder de zaadlijsten als je niet van pittig houdt."
+        },
+        {
+            "title": "2. Groenten bakken",
+            "description": "Verhit een grote koekenpan op medium tot hoog vuur met 1el olijfolie. Voeg de gesneden groenten en de chilipeper toe en bak in 6-8min goudbruin."
+        },
+        {
+            "title": "3. Vlees kruiden",
+            "description": "Dep het vlees droog en wrijf het in met de za'atar en lel olijfolie."
+        },
+        {
+            "title": "4. Vlees braden",
+            "description": "Verhit een middelgrote koekenpan op hoog vuur. Braad het vlees 2-4min op de vetkant, draai om en braad nog eens 2-4min, afhankelijk van de dikte. Zet het vuur laag, leg een deksel op de pan en laat het vlees nog min (voor medium) tot 3min (voor well- done) garen. Laat het afgedekt rusten op een bord."
+        },
+        {
+            "title": "5. Yoghurtsaus maken",
+            "description": "Pel de knoflook en doe met de helft van de yoghurt, lel olijfolie en 1el azijn in een hoge (maat)beker. Pureer glad en breng op smaak met zout, peper en evt. meer azijn."
+        },
+        {
+            "title": "6. Chili en dille hakken",
+            "description": "Hak de gebakken chilipeper en de dille incl. steeltjes grof. Verdeel de groenten en het vlees over de borden, besprenkel met de yoghurtdip en bestrooi met de chilipeper en dille. Verkruimel de feta erover en bedruppel alles met olijfolie naar smaak."
+        }
+    ]
+}

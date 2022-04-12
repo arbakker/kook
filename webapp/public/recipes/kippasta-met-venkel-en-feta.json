@@ -1,0 +1,37 @@
+{
+    "title": "Kippasta met venkel en feta",
+    "subtitle": "in een gedeconstrueerde pesto",
+    "description": "ingredinten niet pureert met de staafmixer maar heel laat, en dan door de pasta roert. Je krijgt alle pestosmaken - basilicum, knoflook en al dat lekkers - maar in een andere structuur, waardoor de eetervaring heel anders wordt. Vandaag meng je die innovatieve pesto door spaghetti met kip en hartige feta.",
+    "ingredients": [
+        "250g spaghetti",
+        "1 venkel",
+        "1 kipfiletblokjes",
+        "25g pompoenpitten",
+        "1 teen knoflook",
+        "20g verse basilicum",
+        "2 tomaten",
+        "1 bosui",
+        "100g feta",
+        "peper en zout",
+        "olijfolie",
+        "azijn"
+    ],
+    "steps": [
+        {
+            "title": "1. Ingredinten voorbereiden 2. Pasta koken",
+            "description": "Breng ruim gezouten water voor de pasta aan de kook in een middelgrote kookpan. Snijd de harde onderkant van de venkel, halveer de venkel en snijd in dunne reepjes. Dep het vlees droog en kruid met een snuf peper en zout.  Voeg de pasta toe aan het water en kook in 7-9min beetgaar. Giet af en laat uitlekken."
+        },
+        {
+            "title": "3. Pompoenpitten roosteren",
+            "description": "Verhit een grote, droge koekenpan op middelhoog vuur. Rooster de pompoenpitten 2-4min tot ze goudbruin en knapperig zijn. Schep ze uit de pan en laat afkoelen."
+        },
+        {
+            "title": "4. Kip en venkel bakken 5. Pesto maken",
+            "description": "Verhit fel olijfolie in de koekenpan en bak het vlees en de venkel 7-8min op middelhoog vuur, tot het vlees gaar en de venkel zacht is. Roer regelmatig en kruid aan het einde met een snuf peper en zout.  Pel de knoflook en snijd of pers fijn. Pluk de basilicumblaadjes en snijd ze heel fijn. Meng de knoflook en basilicum met de pompoenpitten, 2el olijfolie, lel azijn en een snuf peper en zout."
+        },
+        {
+            "title": "6. Afmaken en serveren",
+            "description": "Snijd de tomaten in grove stukken en de bosui in dunne ringen. Verkruimel de feta en hussel om met de tomaten, de bosui en wat peper. Meng de pasta met het vlees, de venkel en de gedeconstrueerde pesto. Proef of je peper en zout wil toevoegen. Schep het tomaten-feta-mengsel door de pasta en verdeel het gerecht over de borden."
+        }
+    ]
+}

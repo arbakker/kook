@@ -1,0 +1,46 @@
+{
+    "title": "Hutspot",
+    "subtitle": "met champignons en shiitake",
+    "description": "Het typisch Hollandse gerecht hutspot werd naar het schijnt al bij het Leidens ontzet in 1574 gegeten, alleen niet met wortel maar met pastinaak. De wortel is namelijk afkomstig uit Iran en werd toen nog niet gebruikt in de Lage Landen. Jij serveert de hutspot vanavond niet met rookworst, maar met een heerlijke mix van knoflook en shiitake en in de oven geroosterde paddestoelen. Enjoy!",
+    "ingredients": [
+        "15g verse kruidenmix, tijm en",
+        "peterselie",
+        "20g boter",
+        "2tenen knoflook",
+        "10g gedroogde shiitake",
+        "1 bak paddenstoelen mix",
+        "1ui",
+        "500g kruimige aardappels",
+        "1 wortels",
+        "2g gerookt paprikapoeder",
+        "\"zout",
+        "zwarte peper",
+        "olijfolie"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten koken",
+            "description": "Oven voorverwarmen op 240C. Een grote kookpan met wateren 1tl zout op hoog vuur aan de kook brengen. Aardappels schillen en in vieren snijden. Wortels schillen en in stukken van ca. 3cm snijden. Ui pellen en fijnhakken. Zodra water kookt, gesneden groenten toevoegen, vuur lager draaien en in ca. 20min zacht koken. Afgieten en warm opzij zetten."
+        },
+        {
+            "title": "2. Shiitake weken",
+            "description": "Ondertussen, waterkoker vullen en aan de kook brengen. Shiitake met gekookt water overgieten en ca. 5min laten weken. Afgieten, water hierbij opvangen voor stap"
+        },
+        {
+            "title": "4. Smaakmakers voorbereiden",
+            "description": "Blaadjes van tijm van steeltjes ritsen, steeltjes verwijderen. Knoflook pellen en in dunne schijfjes snijden. Steeltjes van peterselie verwijderen, blaadjes grof hakken."
+        },
+        {
+            "title": "5. Dan de Shiitake laten afkoelen en in",
+            "description": "dunne reepjes snijden."
+        },
+        {
+            "title": "5. Paddenstoelen bakken",
+            "description": "In een grote koekenpan 2el olie op middelhoog vuur verwarmen. Knoflook toevoegen en in ca. 1-2min al roerend goudbruin bakken. Shiitake toevoegen en 1-2min verder droog bakken. Tijm en paprika erbij en ca. 30sec roerbakken. Vervolgens paddenstoelen en 50ml shiitake-water ca. 1min koken. Met peterselie vermengen en evt. snufje zout en peper toevoegen.     Uiteinden van champignonsteeltjes verwijderen, dan de champignons halveren. Oesterzwammen in repen van ca. 1.5cm dik scheuren. Paddenstoelen met 1-2el olie en zout en peper vermengen. Over een bakplaat met bakpapier verdelen en ca. 20-25min in oven roosteren. Halverwege omscheppen om gelijkmatig te laten garen."
+        },
+        {
+            "title": "6. Hutspot maken",
+            "description": "Ondertussen aardap pel-wortel mengsel met boter tot hutspot stampen. Met zout en peper op smaak brengen. Hutspot over borden verdelen en met paddenstoelen daaroverheen serveren."
+        }
+    ]
+}

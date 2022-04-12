@@ -1,0 +1,42 @@
+{
+    "title": "Tortelloni met truffel-champignonsaus",
+    "subtitle": "met sperziebonen en citroen",
+    "description": "Bij Marley Spoon zijn we dol op sauzen, en op de uiteenlopende manieren waarop je een lekkere saus in elkaar draait. Dit keer gebruik je een deel van de in boter gebakken champignons, truffelolie en kookwater van de tortelloni om een heerlijk romige champignonsaus in elkaar te draaien. Je serveert de saus met onze pesto-tortelloni, knapperige sperzieboontjes en de rest van de gebakken champignons. Geniet!",
+    "ingredients": [
+        "250g tortelloni met pestovulling",
+        "1,3,7,",
+        "200g champignonplakjes",
+        "1 sjalotje",
+        "1 citroen",
+        "250g sperziebonen",
+        "1 flesje truffelolie",
+        "boter",
+        "peper en zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Champignons bakken",
+            "description": "Breng genoeg gezouten water voor de pasta aan de kook in een middelgrote kookpan. Verhit een grote koekenpan op laag vuur met 3el boter. Voeg de champignons toe als de boter is gesmolten en draai het vuur middelhoog. Bak de champignons in 6-8min gaar en goudbruin."
+        },
+        {
+            "title": "2. Ingredinten voorbereiden",
+            "description": "Halveer, pel en snijd het sjalotje in dunne reepjes. Rasp de citroenschil fijn en pers de citroen uit. Schep de helft van de gebakken champignons in een hoge (maat)beker en zet afgedekt opzij."
+        },
+        {
+            "title": "3. Sperziebonen garen",
+            "description": "Dop de sperziebonen en snijd ze door drien. Voeg de sperziebonen, de sjalot, 1el citroensap en nog {el boter toe aan de champignons in de pan en bak het geheel nog 5-6min, tot de bonen beetgaar zijn. Proef of je nog zout en peper wil toevoegen."
+        },
+        {
+            "title": "4. Pasta koken",
+            "description": "Voeg de pasta toe aan het kokende water en kook in 4-5min beetgaar. Schep ca. 100ml pastawater uit de pan, giet de pasta af en laat uitlekken.                F2."
+        },
+        {
+            "title": "5. Saus pureren",
+            "description": "Doe de helft van de truffelolie en 50ml pastawater bij de champignons in de maatbeker en pureer glad. Voeg nog wat pastawater toe als je de saus te dik vindt. Breng op smaak met zout en peper."
+        },
+        {
+            "title": "6. Afmaken & serveren",
+            "description": "Voeg de pasta en saus toe aan de koekenpan. Schep alles door elkaar en proef of je nog zout, peper, of meer citroensap wil toevoegen. Verdeel de pasta over de borden en bestrooi met de citroenrasp."
+        }
+    ]
+}

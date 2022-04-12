@@ -1,0 +1,35 @@
+{
+    "title": "Senegalese pindastoof met spinazie",
+    "subtitle": "met zoete aardappel en rode linzen",
+    "description": "De belangrijkste smaakmaker in deze bijzondere Senegalese stoof is pindakaas. Samen met rode linzen, spinazie, tomaten en zoete aardappel zorgt het voor een heerlijke, vullende kom groenten. Bovendien helemaal vegan!",
+    "ingredients": [
+        "peper en zout",
+        "plantaardige olie"
+    ],
+    "steps": [
+        {
+            "title": "1. Ui snijden",
+            "description": "Pel en hak de ui fijn. Schil en rasp de gember fijn."
+        },
+        {
+            "title": "2. Groenten snijden",
+            "description": "Schil of schrob de wortel en snijd 'm in blokjes. Schil en snijd de zoete aardappel ook in blokjes."
+        },
+        {
+            "title": "3. Ui bakken ie",
+            "description": "Verhit een grote kookpan op middelhoog vuur met lel olie. Bak de ui en gember 3- Amin, tot de ui goudbruin en zacht is. Breng op smaak met een snuf zout en peper."
+        },
+        {
+            "title": "4. Linzen afspoelen",
+            "description": "Giet de linzen af in een zeef en spoel ze om met lauw water. Los de helft van het bouillonpoeder op in 1L heet water."
+        },
+        {
+            "title": "5. Groenten stoven",
+            "description": "Voeg de linzen toe aan de kookpan en bak even mee. Schenk de bouillon erbij en voeg de tomatenblokjes, zoete aardappel en wortel toe. Breng het geheel op smaak met curry-madraskruiden naar wens. Doe een deksel op de pan, draai het vuur laag en laat de stoof 15-20min zachtjes koken, tot de linzen en groenten gaar zijn. Voeg indien nodig wat extra water toe."
+        },
+        {
+            "title": "6. Limoen voorbereiden",
+            "description": "Rasp de limoenschil fijn en snijd de limoen in partjes. Roer de pindakaas, de helft van de spinazie en limoenrasp naar smaak door de stoof en proef of je nog zout wil toevoegen. Serveer de stoof met de rest van de spinazie, de pinda's en de limoenpartjes."
+        }
+    ]
+}

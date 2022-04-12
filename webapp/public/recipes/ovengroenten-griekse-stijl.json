@@ -1,0 +1,44 @@
+{
+    "title": "Ovengroenten Griekse stijl",
+    "subtitle": "met feta, munt en dille",
+    "description": "LTO 19 HIG = Zp vUHIIGHE VlIAK gaat MIL Vaak hd add KIJK trradt Haat UT tLdttdar lots KEURCIE FNU U, de Grieken kunnen er ook wat van! Dit Grieks getinte gerecht is zo bereid, en bevat slechts een paar ingredinten (hoera: minder snijwerk!) en smaakt ondanks dat uitermate lekker. Dat hebben we vooral te denken aan de feta met frisse munt en de gekarameliseerde tomatensaus. Om je vingers bij af te likken!",
+    "ingredients": [
+        "20g kruidenmix: munt en dille",
+        "500g vastkokende aardappels",
+        "1 courgette",
+        "1 rode ui",
+        "ixfeta",
+        "1 rode puntpaprika's",
+        "1 blik gehakte tomaten",
+        "olijfolie",
+        "azijn",
+        "\"_ suiker",
+        "peper en zout"
+    ],
+    "steps": [
+        {
+            "title": "1. Groenten voorbereiden",
+            "description": "Verwarm de oven voor op 200C hetelucht/220C. Pel de ui en snijd in 1cm brede parten. Halveer de puntpaprika's, verwijder zaden en zaadlijsten en snijd in 1cm brede repen. Snijd de courgette in 2cm brede ronde plakken. Halveer de aardappels in de lengte, snijd grotere exemplaren in vieren."
+        },
+        {
+            "title": "2. Groenten roosteren",
+            "description": "Leg de groenten op een bakplaat met bakpapier, hussel om met 2-3el olijfolie en bestrooi met peper en zout. Bak de groenten in 20-25min gaar en goudbruin in de oven, schep ze halverwege om."
+        },
+        {
+            "title": "3. Karamel miaken",
+            "description": "Verhit intussen een kleine kookpan op middelhoog vuur en voeg 2el suiker toe. Laat zachtjes borrelen totdat er een lichtbruine karamel op de bodem van de pan ontstaat. Roer de suiker niet door, maar beweeg de pan!"
+        },
+        {
+            "title": "4. Saus bereiden",
+            "description": "Neem de pan van het vuur en voeg voorzichtig tomaten en 2el azijn aan de karamel toe. Let op: de karamel is heet en kan spatten! Roer door en breng op smaak met peper en zout. Zet terug op laag vuur en laat ca. 10-15min laten sudderen, prak evt. met een vork nog wat fijner."
+        },
+        {
+            "title": "5. Kaas verkruimelen",
+            "description": "Verkruimel ondertussen de feta grof."
+        },
+        {
+            "title": "6. Kruiden snijden",
+            "description": "Pluk de muntblaadjes en gooi de steeltjes weg. Pluk de dilleblaadjes en hak 3/4 grof, roer de gehakte dille door de tomatensaus. Verdeel de groenten over de borden en bestrooi met de feta, muntblaadjes, rest van de dille en besprenkel met de saus."
+        }
+    ]
+}

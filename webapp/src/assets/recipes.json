@@ -1,8 +1,88 @@
 [
     {
+        "title": "Aspergerisotto",
+        "subtitle": "met saffraan en venkel",
+        "slug": "aspergerisotto"
+    },
+    {
+        "title": "Aubergine parmigiana",
+        "subtitle": "met reuzencroutons & knapperige sla",
+        "slug": "aubergine-parmigiana"
+    },
+    {
         "title": "Bami goreng met garnalen",
         "subtitle": "met paksoi en koriander",
         "slug": "bami-goreng-met-garnalen"
+    },
+    {
+        "title": "Biefstuk met za'atar en feta",
+        "subtitle": "met gebakken groenten en dille",
+        "slug": "biefstuk-met-za-atar-en-feta"
+    },
+    {
+        "title": "Bolognese met spinazie en penne",
+        "subtitle": "met verse oregano en geraspte kaas",
+        "slug": "bolognese-met-spinazie-en-penne"
+    },
+    {
+        "title": "Bonte ovengroenten",
+        "subtitle": "met lauwwarme bulgursalade en feta",
+        "slug": "bonte-ovengroenten"
+    },
+    {
+        "title": "Buccatini met pancetta,",
+        "subtitle": "___ tomatensaus en krokante paddenstoelen",
+        "slug": "buccatini-met-pancetta"
+    },
+    {
+        "title": "Champignon-bladerdeegpakketjes",
+        "subtitle": "met geglaceerde worteltjes",
+        "slug": "champignon-bladerdeegpakketjes"
+    },
+    {
+        "title": "Ciabatta met pat de campagne,",
+        "subtitle": "vijgencompote en wortelfriet",
+        "slug": "ciabatta-met-pat-de-campagne"
+    },
+    {
+        "title": "Curry met paneer en sperziebonen",
+        "subtitle": "met cherrytomaten, wortelsla en basmatirijst",
+        "slug": "curry-met-paneer-en-sperziebonen"
+    },
+    {
+        "title": "Gebakken kipfilet met krokante topping",
+        "subtitle": "op orecchiette met romige tomaten-venkelsaus",
+        "slug": "gebakken-kipfilet-met-krokante-topping"
+    },
+    {
+        "title": "Gebakken zalm op linzenstoof",
+        "subtitle": "met appel-komkommersalade",
+        "slug": "gebakken-zalm-op-linzenstoof"
+    },
+    {
+        "title": "Gebraden kip met pompoenrisotto",
+        "subtitle": "en gebakken boerenkool",
+        "slug": "gebraden-kip-met-pompoenrisotto"
+    },
+    {
+        "title": "Gegrilde halloumi op borani van rode biet",
+        "subtitle": "met parelcouscous, verse kruiden en dukkah",
+        "slug": "gegrilde-halloumi-op-borani-van-rode-biet"
+    },
+    {
+        "title": "Gepaneerde Hollandse kaas",
+        "subtitle": "met aardappel-knolselderijstamppotje",
+        "slug": "gepaneerde-hollandse-kaas"
+    },
+    {
+        "title": "Gnocchi en gebakken kipfilet",
+        "subtitle": "met spinazie en limoen",
+        "slug": "gnocchi-en-gebakken-kipfilet"
+    },
+    {
+        "title": "Gnocchi in romige kaassaus",
+        "subtitle": "met mas en gebakken champignons",
+        "slug": "gnocchi-in-romige-kaassaus"
     },
     {
         "title": "Gnocchi-ovenschotel",
@@ -10,13 +90,263 @@
         "slug": "gnocchi-ovenschotel"
     },
     {
+        "title": "Groentecurry met pinda-kokos topping",
+        "subtitle": "met basmatirijst en yoghurt",
+        "slug": "groentecurry-met-pinda-kokos-topping"
+    },
+    {
+        "title": "Hamburgertjes met Peruaanse saus",
+        "subtitle": "met sperziebonen, wortel en jasmijnrijst",
+        "slug": "hamburgertjes-met-peruaanse-saus"
+    },
+    {
+        "title": "Handgesneden pasta met ricotta",
+        "subtitle": "en champignonragout",
+        "slug": "handgesneden-pasta-met-ricotta"
+    },
+    {
+        "title": "Herfstsalade met geitenkaas",
+        "subtitle": "met volkorenpita en basilicumdressing",
+        "slug": "herfstsalade-met-geitenkaas"
+    },
+    {
+        "title": "Hutspot",
+        "subtitle": "met champignons en shiitake",
+        "slug": "hutspot"
+    },
+    {
+        "title": "In honing gebakken feta",
+        "subtitle": "en Griekse bonen-tomatenstoof",
+        "slug": "in-honing-gebakken-feta"
+    },
+    {
+        "title": "Italiaanse fettucine |",
+        "subtitle": "met veggie bolognesesaus",
+        "slug": "italiaanse-fettucine"
+    },
+    {
+        "title": "Kikkererwtenkorma met courgette",
+        "subtitle": "met spinazie en kokosrijst",
+        "slug": "kikkererwtenkorma-met-courgette"
+    },
+    {
+        "title": "Kip met penne in romige rodepestosaus",
+        "subtitle": "met ratatouillegroenten",
+        "slug": "kip-met-penne-in-romige-rodepestosaus"
+    },
+    {
+        "title": "Kippasta met venkel en feta",
+        "subtitle": "in een gedeconstrueerde pesto",
+        "slug": "kippasta-met-venkel-en-feta"
+    },
+    {
+        "title": "Lasagne met artisjokken en spinazie",
+        "subtitle": "met ricotta en kaas",
+        "slug": "lasagne-met-artisjokken-en-spinazie"
+    },
+    {
+        "title": "Licht gekarameliseerde kip,",
+        "subtitle": "gestoofde paksoi en sushirijst",
+        "slug": "licht-gekarameliseerde-kip"
+    },
+    {
+        "title": "Linzensalade met mozzarella",
+        "subtitle": "met rode bieten en cherrytomaten",
+        "slug": "linzensalade-met-mozzarella"
+    },
+    {
+        "title": "Linzensalade met ovengroenten",
+        "subtitle": "met venkel, wortel en kruidenkaasdressing",
+        "slug": "linzensalade-met-ovengroenten"
+    },
+    {
+        "title": "Marokkaanse kip op bulgursalade",
+        "subtitle": "met abrikozen, botersla en yoghurtdip",
+        "slug": "marokkaanse-kip-op-bulgursalade"
+    },
+    {
+        "title": "Mexicaanse quesadilla's",
+        "subtitle": "met kidneybonen en tomatensalsa",
+        "slug": "mexicaanse-quesadilla-s"
+    },
+    {
+        "title": "One-pot Mac & Cheese",
+        "subtitle": "met bull's blood-komkommersla",
+        "slug": "one-pot-mac-cheese"
+    },
+    {
+        "title": "Ovengebakken heekfilet met kappertjes",
+        "subtitle": "met geroosterde groenten en citroen",
+        "slug": "ovengebakken-heekfilet-met-kappertjes"
+    },
+    {
+        "title": "Ovengroenten Griekse stijl",
+        "subtitle": "met feta, munt en dille",
+        "slug": "ovengroenten-griekse-stijl"
+    },
+    {
+        "title": "Ovengroenten met gebakken halloumi",
+        "subtitle": "met paprika, bonen en courgette",
+        "slug": "ovengroenten-met-gebakken-halloumi"
+    },
+    {
+        "title": "Palak paneer",
+        "subtitle": "met kikkererwten",
+        "slug": "palak-paneer"
+    },
+    {
+        "title": "Pannenkoekjes met bacon,",
+        "subtitle": "gebakken appel en frisse shake",
+        "slug": "pannenkoekjes-met-bacon"
+    },
+    {
+        "title": "Penne met paprika en aubergine",
+        "subtitle": "met romige walnootsaus en basilicum",
+        "slug": "penne-met-paprika-en-aubergine"
+    },
+    {
         "title": "Quinoa-granaatappelsalade",
         "subtitle": "met walnoten en gegrilde aubergine",
         "slug": "quinoa-granaatappelsalade"
     },
     {
+        "title": "Razendsnelle pizza",
+        "subtitle": "met Aziatische groenten en kruidensalsa",
+        "slug": "razendsnelle-pizza"
+    },
+    {
+        "title": "Risoni met tomaat en mozzarella",
+        "subtitle": "met spinazie en amandelschaafsel ",
+        "slug": "risoni-met-tomaat-en-mozzarella"
+    },
+    {
+        "title": "Rodebietenrisotto met dille",
+        "subtitle": "met zachte geitenkaas en rucola",
+        "slug": "rodebietenrisotto-met-dille"
+    },
+    {
+        "title": "Rodelinzenstoof met aardappels",
+        "subtitle": "met harissa en rozemarijn",
+        "slug": "rodelinzenstoof-met-aardappels"
+    },
+    {
+        "title": "Romige kokos-pompoencurry",
+        "subtitle": "met bloemkool en cashewnoten",
+        "slug": "romige-kokos-pompoencurry"
+    },
+    {
+        "title": "Salsiccia met burrata en amandelen",
+        "subtitle": "met rodebietenpuree en snijbiet",
+        "slug": "salsiccia-met-burrata-en-amandelen"
+    },
+    {
+        "title": "Senegalese pindastoof met spinazie",
+        "subtitle": "met zoete aardappel en rode linzen",
+        "slug": "senegalese-pindastoof-met-spinazie"
+    },
+    {
+        "title": "Snelle penne met kip |",
+        "subtitle": "en romige champignon-preisaus",
+        "slug": "snelle-penne-met-kip"
+    },
+    {
+        "title": "Spaghetti al pollo",
+        "subtitle": "in romige saus met courgette en wortel",
+        "slug": "spaghetti-al-pollo"
+    },
+    {
+        "title": "Spinazie-basilicumstamppot",
+        "subtitle": "met zongedroogde tomaat & kappertjes",
+        "slug": "spinazie-basilicumstamppot"
+    },
+    {
+        "title": "Tagliatelle alla pesto rosso",
+        "subtitle": "met kalkoen en courgette",
+        "slug": "tagliatelle-alla-pesto-rosso"
+    },
+    {
+        "title": "Tagliatelle met courgette en tomaten",
+        "subtitle": "in romige basilicum-kaassaus",
+        "slug": "tagliatelle-met-courgette-en-tomaten"
+    },
+    {
+        "title": "Teriyakizalm met sesam",
+        "subtitle": "op glasnoedels en kleurrijke groenten",
+        "slug": "teriyakizalm-met-sesam"
+    },
+    {
+        "title": "Tijgergarnalen-tagliatelle",
+        "subtitle": "in tomatenroomsaus & courgettelinten",
+        "slug": "tijgergarnalen-tagliatelle"
+    },
+    {
+        "title": "Torchiette met kip en peer",
+        "subtitle": "en pistachepesto",
+        "slug": "torchiette-met-kip-en-peer"
+    },
+    {
+        "title": "Tortelloni met truffel-champignonsaus",
+        "subtitle": "met sperziebonen en citroen",
+        "slug": "tortelloni-met-truffel-champignonsaus"
+    },
+    {
+        "title": "Turkse pasta met rundergehakt,",
+        "subtitle": "yoghurtsaus en pijnboompitten",
+        "slug": "turkse-pasta-met-rundergehakt"
+    },
+    {
         "title": "Vegan kipburger met sriracha-mayo",
         "subtitle": "en geroosterde aardappels",
         "slug": "vegan-kipburger-met-sriracha-mayo"
+    },
+    {
+        "title": "Vegan noedelroerbak met pindasaus",
+        "subtitle": "met paksoi en zwarte sesam",
+        "slug": "vegan-noedelroerbak-met-pindasaus"
+    },
+    {
+        "title": "Versgesneden pasta met sugar snaps",
+        "subtitle": "met truffelolie, kaas en prei",
+        "slug": "versgesneden-pasta-met-sugar-snaps"
+    },
+    {
+        "title": "Warmgerookte zalm op quinoasalade",
+        "subtitle": "met venkel, rozijnen en yoghurt",
+        "slug": "warmgerookte-zalm-op-quinoasalade"
+    },
+    {
+        "title": "Winterse pompoenrisotto",
+        "subtitle": "met salie en walnoten",
+        "slug": "winterse-pompoenrisotto"
+    },
+    {
+        "title": "Wrap met frijoles fritos,",
+        "subtitle": "gebakken paprika en zure room",
+        "slug": "wrap-met-frijoles-fritos"
+    },
+    {
+        "title": "Wraps met teriyaki-kip",
+        "subtitle": "en pittige kimchi met peer",
+        "slug": "wraps-met-teriyaki-kip"
+    },
+    {
+        "title": "Zalmfilet met ahorsiroopglaze",
+        "subtitle": "met paksoi en wortelrijst",
+        "slug": "zalmfilet-met-ahorsiroopglaze"
+    },
+    {
+        "title": "Zeevruchtenpasta | |",
+        "subtitle": "met paprika, courgette en kruiden |",
+        "slug": "zeevruchtenpasta"
+    },
+    {
+        "title": "Zomerstamppot met forel,",
+        "subtitle": "zuring en frisse veldsla",
+        "slug": "zomerstamppot-met-forel"
+    },
+    {
+        "title": "Zwarte bonen mole",
+        "subtitle": "met geroosterde yacom en basmati",
+        "slug": "zwarte-bonen-mole"
     }
 ]

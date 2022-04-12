@@ -1,0 +1,47 @@
+{
+    "title": "Pannenkoekjes met bacon,",
+    "subtitle": "gebakken appel en frisse shake",
+    "description": "Deze pannenkoekjes maken de perfecte paasbrunch! Of gewoon een heel lekke: avondmaal. Historici denken dat pannenkoeken niet door n volk zijn uitgevonden, maar over de hele wereld onafhankelijk van elkaar zijn ontstaan. Vele jaren na de uitvinding ervan staan er bij ons heerlijke pannenkoekjes in Amerikaanse stijl met erunchy gebakken bacon op het menu. De frisse shakes met een zweem sinaasappel maken het af.",
+    "ingredients": [
+        "1 sinaasappel",
+        "2 boskoop appels",
+        "20g boter",
+        "500ml karnemelk",
+        "1 citroen",
+        "30g ahornsiroop",
+        "1 zakje bakpoeder",
+        "1 zakje vanillesuiker",
+        "1 plakjes gerookt spek",
+        "150g zelfrijzend tarwemeel",
+        "zoul",
+        "suiker *",
+        "plantaardige olie",
+        "2 eieren"
+    ],
+    "steps": [
+        {
+            "title": "1. Bacon knapperig bakken",
+            "description": "Oven op 180C hetelucht/200C. Plakjes spek op bakplaat met bakpapier leggen, zorg ervoor dat de plakjes elkaar niet overlappen. Dan ca. 12-15min goudbruin in de oven bakken, oven uitzetten en bakplaat in de oven laten staan zodat de baconplakjes knapperig worden."
+        },
+        {
+            "title": "2. Beslag maken",
+            "description": "Ondertussen in een grote koekenpan 1/2 boter smelten. 2 eieren en 125ml karnemelk met een garde in een kom kloppen. Dan bakpoeder, 2el suiker, snuf zout en zelfrijzend tarwemeel toevoegen. Beetje bij beetje 125ml karnemelk erbij en met een garde tot een glad beslag roeren. Gesmolten boter toevoegen, goed roeren.  Pan tot stap 5 opzij zetten."
+        },
+        {
+            "title": "3. Appel bakken",
+            "description": "Appels in vieren snijden, klokhuis verwijderen en in 1-2em dunne partjes snijden. Citroenschil fijnraspen, citroen uitpersen. In 2e grote koekenpan 1el suiker op laag vuur in 1-2min lichtjes karameliseren (tip, links), met 1-2el citroensap afblussen. Appels toevoegen, met 1-2el suiker bestrooien en 2-3min bakken. Met 141 citroenrasp op smaak brengen."
+        },
+        {
+            "title": "4. Shake maken",
+            "description": "Sinaasappelschil fijnraspen, sinaassappel uitpersen. Rest van de karnemelk met sinaasappelsap, 1tl sinaasappelrasp en 1- 2tl vanillesuiker in een hoge beker met een staafmixer opschuimen. Naar smaak meer vanillesuiker toevoegen. Shake in glazen schenken en tot het serveren koud zetten."
+        },
+        {
+            "title": "5. Pannekoeken bakken |",
+            "description": "Grote koekenpan uit stap 2 met overige boter op middelhoog vuur verhitten, steeds een halve soeplepel beslag erin scheppen zodat kleine pannenkoekjes ontstaan. Pannenkoekjes aan beide kanten in ca. 1- 2min goudbruin en gaar bakken. Herhalen tot het beslag op is. Evt. wat plantaardige olie toevoegen."
+        },
+        {
+            "title": "6. Pannenkoekjes stapelen",
+            "description": "Pannenkoekjes op elkaar stapelen en met een paar plakjes bacon en appel serveren, dan wat ahornsiroop erover gieten. Shakes erbij serveren."
+        }
+    ]
+}
